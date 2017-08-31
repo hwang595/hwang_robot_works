@@ -25,3 +25,9 @@ To run them, you need firstly `roslaunch` the whole project by:
 ```
 roslaunch startup ur5_setup_test.launch
 ```
+please note that, for now the `ur5_setup.launch` include the `robotiq` gripper and force torque sensor in it, but they will somehow conflict with the motion checking tool. If you need to follow my work and figure this out, I can work with you on this.
+Next, running thie following command to run the motion checking tool:
+```
+rosrun robot_sensing motion_checking_simulator.py
+```
+This may not work directly, because you need to collect motion data and run the IK solver first.
