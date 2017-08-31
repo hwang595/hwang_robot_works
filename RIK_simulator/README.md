@@ -28,6 +28,10 @@ roslaunch startup ur5_setup_test.launch
 please note that, for now the `ur5_setup.launch` include the `robotiq` gripper and force torque sensor in it, but they will somehow conflict with the motion checking tool. If you need to follow my work and figure this out, I can work with you on this.
 Next, running thie following command to run the motion checking tool:
 ```
-rosrun robot_sensing motion_checking_simulator.py
+rosrun robot_sensing motion_checking_simulator.py -m [mode]
 ```
 This may not work directly, because you need to collect motion data and run the IK solver first.
+
+There are three mode in this motion chekcing tool:
+a (Analysis mode): will open the UI and make comparsions for you among different RIK methods.
+c (Checking mode): will run the test and tell you if your solution is good to playback on robot or not. in currenly version it will only check for `elbow flip`, `self collision` and `robot configuration jumpping` (if the robot motion is smooth).
