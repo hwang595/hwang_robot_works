@@ -19,3 +19,9 @@ The performance of random start is like:
 ![alt text](https://github.com/hwang595/hwang_robot_works/blob/master/RIK_simulator/pictures/RIK_dynamic_relax.png)
 
 3. This work is somehow an extension of Daniel Rakita's RIK work. I added some extra strategy in his framework, like avoid elbow flip issue of the robot, and avoid self collision issue of the robot. All these solution is embedded in `src/lbd_playback/bin/Relaxed_IK_Solver/RelaxedIK/constraint.py`, in the class `ElbowFlipAvoidenceConstraint` and `SelfCollisionAvoidenceConstraint`.
+
+4. to make us see what's going on in a "failed" motion, I built motion simulator based on `RVIZ`, and motion checking tool(an UI wrote in PyQt and PyQtGraph). 
+To run them, you need firstly `roslaunch` the whole project by:
+```
+roslaunch startup ur5_setup_test.launch
+```
