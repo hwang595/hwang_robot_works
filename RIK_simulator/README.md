@@ -14,4 +14,8 @@ The performance of random start is like:
 
 ![alt text](https://github.com/hwang595/hwang_robot_works/blob/master/RIK_simulator/pictures/random_start_for_exact_ik.png)
 
-2. figured out dynamic RIK based on the exact IK solutions: if the exact IK told me that at some frames I it can't reach a "perfect" solution. Then, some relaxation (reduce weight on orientation terms) need to be done on orientation term in the IK optimization problem. In the current version, I totally turn off the orientation term (you may need to fix this later), and smooth the orientation weight signal among the whole motion frames.
+2. figured out dynamic RIK based on the exact IK solutions: if the exact IK told me that at some frames I it can't reach a "perfect" solution. Then, some relaxation (reduce weight on orientation terms) need to be done on orientation term in the IK optimization problem. In the current version, I totally turn off the orientation term (you may need to fix this later), and smooth the orientation weight signal among the whole motion frames. The weight of orientation will be something like:
+
+![alt text](https://github.com/hwang595/hwang_robot_works/blob/master/RIK_simulator/pictures/RIK_dynamic_relax.png)
+
+3. This work is somehow an extension of Daniel Rakita's RIK work. I added some extra strategy in his framework, like avoid elbow flip issue of the robot, and avoid self collision issue of the robot. All these solution is embedded in `src/lbd_playback/bin/Relaxed_IK_Solver/RelaxedIK/constraint.py`, in the class `ElbowFlipAvoidenceConstraint` and `SelfCollisionAvoidenceConstraint`.
