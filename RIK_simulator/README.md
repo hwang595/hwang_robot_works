@@ -33,5 +33,14 @@ rosrun robot_sensing motion_checking_simulator.py -m [mode]
 This may not work directly, because you need to collect motion data and run the IK solver first.
 
 There are three mode in this motion chekcing tool:
+
 a (Analysis mode): will open the UI and make comparsions for you among different RIK methods.
+
 c (Checking mode): will run the test and tell you if your solution is good to playback on robot or not. in currenly version it will only check for `elbow flip`, `self collision` and `robot configuration jumpping` (if the robot motion is smooth).
+
+p(Playback mode): nothing will be showed, you will see the real playback performance on the simulator (RVIZ).
+
+The motion checking tool and simulator are looks like:
+![alt text](https://github.com/hwang595/hwang_robot_works/blob/master/RIK_simulator/pictures/motion_checking_tool.png)
+
+![alt text](https://github.com/hwang595/hwang_robot_works/blob/master/RIK_simulator/pictures/robot_simulator.png)
