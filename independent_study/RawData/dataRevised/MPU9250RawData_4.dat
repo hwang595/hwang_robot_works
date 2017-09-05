@@ -1,0 +1,2520 @@
+ax = 136.47 ay = -443.60 az = 848.02 mg
+gx = -29.78 gy = -27.11 gz = 8.74 deg/s
+mx = -441 my = 112 mz = -217 mG
+q0 = 0.12 qx = -0.14 qy = -0.51 qz = 0.84
+Yaw, Pitch, Roll: 151.61, 6.87, -63.03
+rate = 0.55 Hz
+ax = -26.92 ay = -654.17 az = 697.81 mg
+gx = -9.28 gy = 6.55 gz = 11.56 deg/s
+mx = -325 my = 147 mz = -292 mG
+q0 = 0.74 qx = -0.31 qy = -0.22 qz = 0.56
+Yaw, Pitch, Roll: 65.80, 1.05, -44.61
+rate = 225.43 Hz
+ax = -173.28 ay = -564.70 az = 794.62 mg
+gx = 46.32 gy = 15.55 gz = 1.76 deg/s
+mx = -343 my = 215 mz = -285 mG
+q0 = 0.80 qx = -0.29 qy = -0.09 qz = 0.53
+Yaw, Pitch, Roll: 55.46, 9.54, -34.05
+rate = 227.99 Hz
+ax = 61.04 ay = -278.69 az = 1084.17 mg
+gx = 43.83 gy = -42.49 gz = -13.97 deg/s
+mx = -516 my = 156 mz = -173 mG
+q0 = 0.82 qx = -0.06 qy = -0.04 qz = 0.56
+Yaw, Pitch, Roll: 59.97, -0.13, -8.90
+rate = 227.68 Hz
+ax = 113.53 ay = 52.73 az = 908.75 mg
+gx = 32.88 gy = -32.65 gz = 2.17 deg/s
+mx = -601 my = 91 mz = -176 mG
+q0 = 0.78 qx = 0.08 qy = -0.04 qz = 0.62
+Yaw, Pitch, Roll: 68.48, -9.67, 4.10
+rate = 229.19 Hz
+ax = 431.34 ay = -68.97 az = 593.44 mg
+gx = -13.69 gy = -52.55 gz = 35.04 deg/s
+mx = -591 my = -51 mz = -245 mG
+q0 = 0.70 qx = 0.17 qy = -0.26 qz = 0.64
+Yaw, Pitch, Roll: 78.74, -36.14, -6.50
+rate = 228.06 Hz
+ax = 326.54 ay = -512.57 az = 617.07 mg
+gx = -4.05 gy = 57.01 gz = 29.61 deg/s
+mx = -384 my = -23 mz = -321 mG
+q0 = 0.66 qx = -0.11 qy = -0.40 qz = 0.62
+Yaw, Pitch, Roll: 87.31, -23.01, -44.18
+rate = 229.82 Hz
+ax = -124.08 ay = -726.75 az = 728.64 mg
+gx = 22.41 gy = 39.45 gz = 6.97 deg/s
+mx = -345 my = 216 mz = -279 mG
+q0 = 0.77 qx = -0.32 qy = -0.11 qz = 0.53
+Yaw, Pitch, Roll: 57.29, 9.84, -39.00
+rate = 228.24 Hz
+ax = -318.85 ay = -420.84 az = 986.51 mg
+gx = 87.97 gy = -20.71 gz = -22.89 deg/s
+mx = -423 my = 274 mz = -242 mG
+q0 = 0.83 qx = -0.22 qy = 0.03 qz = 0.50
+Yaw, Pitch, Roll: 50.71, 16.22, -20.91
+rate = 227.75 Hz
+ax = -122.07 ay = 169.68 az = 986.57 mg
+gx = 42.47 gy = -26.18 gz = -7.48 deg/s
+mx = -642 my = 207 mz = -150 mG
+q0 = 0.82 qx = 0.08 qy = 0.10 qz = 0.55
+Yaw, Pitch, Roll: 59.48, 4.52, 14.26
+rate = 227.35 Hz
+ax = 166.08 ay = 419.31 az = 867.37 mg
+gx = 14.62 gy = -62.52 gz = 24.11 deg/s
+mx = -769 my = 134 mz = -173 mG
+q0 = 0.77 qx = 0.24 qy = 0.09 qz = 0.58
+Yaw, Pitch, Roll: 63.44, -8.13, 28.35
+rate = 228.15 Hz
+ax = 364.62 ay = 202.21 az = 712.16 mg
+gx = -23.35 gy = -23.74 gz = 42.02 deg/s
+mx = -648 my = -37 mz = -231 mG
+q0 = 0.72 qx = 0.23 qy = -0.11 qz = 0.64
+Yaw, Pitch, Roll: 71.86, -27.03, 12.04
+rate = 227.83 Hz
+ax = 475.59 ay = 33.57 az = 531.25 mg
+gx = 18.20 gy = -19.07 gz = -8.51 deg/s
+mx = -633 my = -98 mz = -276 mG
+q0 = 0.72 qx = 0.28 qy = -0.23 qz = 0.59
+Yaw, Pitch, Roll: 67.18, -41.58, 9.25
+rate = 229.06 Hz
+ax = 514.83 ay = -6.35 az = 190.12 mg
+gx = 12.21 gy = -26.05 gz = 11.63 deg/s
+mx = -610 my = -143 mz = -323 mG
+q0 = 0.69 qx = 0.30 qy = -0.39 qz = 0.53
+Yaw, Pitch, Roll: 65.60, -59.23, 0.99
+rate = 231.53 Hz
+ax = 554.63 ay = -52.67 az = 141.48 mg
+gx = 4.41 gy = -30.96 gz = 19.26 deg/s
+mx = -557 my = -182 mz = -388 mG
+q0 = 0.65 qx = 0.27 qy = -0.55 qz = 0.45
+Yaw, Pitch, Roll: 85.00, -74.10, -31.46
+rate = 231.69 Hz
+ax = 521.85 ay = -247.01 az = -209.66 mg
+gx = 12.49 gy = -40.00 gz = 8.98 deg/s
+mx = -491 my = -180 mz = -534 mG
+q0 = 0.48 qx = 0.22 qy = -0.78 qz = 0.32
+Yaw, Pitch, Roll: -184.09, -63.87, -137.91
+rate = 229.53 Hz
+ax = 435.24 ay = -249.27 az = -445.37 mg
+gx = 6.03 gy = -33.72 gz = 20.40 deg/s
+mx = -448 my = -155 mz = -638 mG
+q0 = 0.29 qx = 0.14 qy = -0.91 qz = 0.27
+Yaw, Pitch, Roll: -181.37, -37.50, -149.17
+rate = 228.28 Hz
+ax = 199.34 ay = -389.83 az = -674.74 mg
+gx = 8.55 gy = -21.60 gz = 15.30 deg/s
+mx = -391 my = -120 mz = -738 mG
+q0 = 0.13 qx = 0.05 qy = -0.96 qz = 0.26
+Yaw, Pitch, Roll: -187.18, -15.76, -150.07
+rate = 229.31 Hz
+ax = 48.89 ay = -360.23 az = -738.95 mg
+gx = -0.54 gy = -27.05 gz = 13.53 deg/s
+mx = -350 my = -46 mz = -777 mG
+q0 = 0.03 qx = -0.02 qy = -0.97 qz = 0.23
+Yaw, Pitch, Roll: 167.93, -2.78, -153.21
+rate = 227.92 Hz
+ax = -73.73 ay = -416.69 az = -789.00 mg
+gx = 10.90 gy = -15.14 gz = 10.82 deg/s
+mx = -347 my = -7 mz = -815 mG
+q0 = -0.00 qx = -0.06 qy = -0.97 qz = 0.23
+Yaw, Pitch, Roll: 164.83, 1.59, -153.84
+rate = 228.97 Hz
+ax = 30.52 ay = -395.87 az = -781.68 mg
+gx = 15.59 gy = 64.61 gz = -11.02 deg/s
+mx = -345 my = -30 mz = -793 mG
+q0 = 0.08 qx = -0.10 qy = -0.97 qz = 0.22
+Yaw, Pitch, Roll: 158.34, -6.66, -153.10
+rate = 227.96 Hz
+ax = 411.62 ay = -379.09 az = -428.89 mg
+gx = 18.34 gy = 38.69 gz = -3.93 deg/s
+mx = -368 my = -121 mz = -646 mG
+q0 = 0.35 qx = -0.07 qy = -0.89 qz = 0.30
+Yaw, Pitch, Roll: 147.94, -35.19, -135.54
+rate = 227.96 Hz
+ax = 527.95 ay = -445.56 az = 38.51 mg
+gx = 31.11 gy = 41.58 gz = -9.35 deg/s
+mx = -391 my = -163 mz = -545 mG
+q0 = 0.54 qx = 0.02 qy = -0.74 qz = 0.39
+Yaw, Pitch, Roll: 127.43, -55.64, -101.03
+rate = 228.69 Hz
+ax = 366.58 ay = -349.61 az = 806.58 mg
+gx = 20.82 gy = 50.48 gz = 4.20 deg/s
+mx = -434 my = -41 mz = -286 mG
+q0 = 0.71 qx = -0.00 qy = -0.32 qz = 0.63
+Yaw, Pitch, Roll: 81.67, -27.06, -27.25
+rate = 228.52 Hz
+ax = 26.00 ay = -198.43 az = 937.62 mg
+gx = 60.85 gy = 9.02 gz = -2.17 deg/s
+mx = -452 my = 138 mz = -186 mG
+q0 = 0.79 qx = -0.09 qy = -0.08 qz = 0.61
+Yaw, Pitch, Roll: 66.92, -0.60, -14.22
+rate = 227.58 Hz
+ax = -127.38 ay = 83.01 az = 971.62 mg
+gx = 31.16 gy = -0.23 gz = -0.70 deg/s
+mx = -580 my = 195 mz = -145 mG
+q0 = 0.81 qx = -0.00 qy = 0.05 qz = 0.58
+Yaw, Pitch, Roll: 63.26, 4.82, 2.82
+rate = 227.32 Hz
+ax = -220.58 ay = 393.19 az = 976.14 mg
+gx = 38.86 gy = 13.35 gz = -7.21 deg/s
+mx = -701 my = 213 mz = -166 mG
+q0 = 0.78 qx = 0.10 qy = 0.19 qz = 0.59
+Yaw, Pitch, Roll: 67.52, 10.18, 21.99
+rate = 229.69 Hz
+ax = -307.43 ay = 477.54 az = 966.31 mg
+gx = 11.22 gy = 8.36 gz = 9.25 deg/s
+mx = -776 my = 277 mz = -197 mG
+q0 = 0.77 qx = 0.10 qy = 0.25 qz = 0.58
+Yaw, Pitch, Roll: 69.23, 15.27, 27.10
+rate = 230.09 Hz
+ax = -330.75 ay = 536.38 az = 925.35 mg
+gx = 28.40 gy = 8.83 gz = 32.78 deg/s
+mx = -806 my = 279 mz = -223 mG
+q0 = 0.75 qx = 0.11 qy = 0.28 qz = 0.59
+Yaw, Pitch, Roll: 72.96, 16.48, 31.34
+rate = 229.21 Hz
+ax = -387.45 ay = 500.49 az = 948.24 mg
+gx = -15.94 gy = -8.22 gz = -8.48 deg/s
+mx = -811 my = 288 mz = -221 mG
+q0 = 0.76 qx = 0.08 qy = 0.27 qz = 0.59
+Yaw, Pitch, Roll: 71.67, 18.10, 27.85
+rate = 228.25 Hz
+ax = -252.26 ay = 377.26 az = 1000.31 mg
+gx = -4.77 gy = 1.86 gz = 8.20 deg/s
+mx = -753 my = 272 mz = -178 mG
+q0 = 0.78 qx = 0.07 qy = 0.19 qz = 0.60
+Yaw, Pitch, Roll: 68.90, 12.29, 20.65
+rate = 227.64 Hz
+ax = -212.89 ay = 26.00 az = 1105.35 mg
+gx = 62.10 gy = -17.36 gz = 24.68 deg/s
+mx = -614 my = 258 mz = -150 mG
+q0 = 0.81 qx = -0.03 qy = 0.10 qz = 0.58
+Yaw, Pitch, Roll: 63.05, 11.92, 3.94
+rate = 229.35 Hz
+ax = -203.98 ay = -222.23 az = 1033.63 mg
+gx = -57.12 gy = -11.78 gz = -0.84 deg/s
+mx = -537 my = 252 mz = -180 mG
+q0 = 0.81 qx = -0.15 qy = 0.01 qz = 0.57
+Yaw, Pitch, Roll: 60.29, 11.12, -13.63
+rate = 228.47 Hz
+ax = -208.37 ay = -669.25 az = 770.14 mg
+gx = -28.99 gy = -4.66 gz = -0.47 deg/s
+mx = -352 my = 252 mz = -279 mG
+q0 = 0.79 qx = -0.33 qy = -0.08 qz = 0.52
+Yaw, Pitch, Roll: 53.81, 12.57, -37.51
+rate = 227.61 Hz
+ax = -235.60 ay = -895.45 az = 437.38 mg
+gx = -31.48 gy = 2.53 gz = 3.82 deg/s
+mx = -250 my = 254 mz = -426 mG
+q0 = 0.72 qx = -0.46 qy = -0.17 qz = 0.50
+Yaw, Pitch, Roll: 54.13, 12.45, -57.59
+rate = 229.41 Hz
+ax = -167.24 ay = -921.39 az = 600.34 mg
+gx = 93.28 gy = -3.07 gz = -8.11 deg/s
+mx = -247 my = 240 mz = -426 mG
+q0 = 0.72 qx = -0.42 qy = -0.17 qz = 0.52
+Yaw, Pitch, Roll: 57.28, 11.78, -53.38
+rate = 229.59 Hz
+ax = -199.22 ay = -428.83 az = 1055.18 mg
+gx = 84.36 gy = -11.52 gz = 8.25 deg/s
+mx = -393 my = 250 mz = -223 mG
+q0 = 0.82 qx = -0.21 qy = -0.01 qz = 0.54
+Yaw, Pitch, Roll: 55.74, 11.57, -21.25
+rate = 229.96 Hz
+ax = -204.04 ay = -140.20 az = 1077.94 mg
+gx = 26.05 gy = -11.15 gz = 5.12 deg/s
+mx = -534 my = 238 mz = -176 mG
+q0 = 0.82 qx = -0.08 qy = 0.05 qz = 0.56
+Yaw, Pitch, Roll: 59.95, 10.29, -4.50
+rate = 226.08 Hz
+ax = -160.16 ay = 73.12 az = 1141.60 mg
+gx = 11.57 gy = -3.37 gz = 5.76 deg/s
+mx = -610 my = 215 mz = -154 mG
+q0 = 0.81 qx = -0.01 qy = 0.08 qz = 0.58
+Yaw, Pitch, Roll: 62.76, 7.95, 4.14
+rate = 226.74 Hz
+ax = -62.32 ay = 205.38 az = 1177.06 mg
+gx = 51.56 gy = 18.36 gz = -7.49 deg/s
+mx = -678 my = 207 mz = -154 mG
+q0 = 0.80 qx = 0.03 qy = 0.09 qz = 0.59
+Yaw, Pitch, Roll: 64.43, 6.03, 9.41
+rate = 228.25 Hz
+ax = -178.53 ay = 178.71 az = 1059.94 mg
+gx = -26.41 gy = -41.95 gz = -2.09 deg/s
+mx = -690 my = 256 mz = -159 mG
+q0 = 0.80 qx = 0.03 qy = 0.13 qz = 0.58
+Yaw, Pitch, Roll: 64.90, 10.10, 12.24
+rate = 228.15 Hz
+ax = -235.05 ay = -243.71 az = 1010.25 mg
+gx = -10.15 gy = 3.68 gz = 4.09 deg/s
+mx = -502 my = 256 mz = -186 mG
+q0 = 0.81 qx = -0.16 qy = 0.02 qz = 0.56
+Yaw, Pitch, Roll: 59.26, 12.75, -14.32
+rate = 227.57 Hz
+ax = -260.31 ay = -604.37 az = 849.43 mg
+gx = -6.94 gy = 1.18 gz = 6.70 deg/s
+mx = -377 my = 263 mz = -283 mG
+q0 = 0.81 qx = -0.30 qy = -0.04 qz = 0.51
+Yaw, Pitch, Roll: 51.77, 13.74, -33.39
+rate = 229.45 Hz
+ax = -277.28 ay = -749.69 az = 742.25 mg
+gx = -17.34 gy = -10.50 gz = 11.18 deg/s
+mx = -304 my = 250 mz = -329 mG
+q0 = 0.76 qx = -0.39 qy = -0.10 qz = 0.51
+Yaw, Pitch, Roll: 52.46, 14.31, -45.44
+rate = 229.78 Hz
+ax = -203.19 ay = -916.02 az = 479.98 mg
+gx = -37.79 gy = -5.08 gz = -5.87 deg/s
+mx = -220 my = 238 mz = -431 mG
+q0 = 0.70 qx = -0.48 qy = -0.19 qz = 0.50
+Yaw, Pitch, Roll: 55.43, 11.88, -61.50
+rate = 229.76 Hz
+ax = -125.98 ay = -1000.98 az = 131.96 mg
+gx = -23.64 gy = -2.17 gz = -10.02 deg/s
+mx = -211 my = 233 mz = -560 mG
+q0 = 0.61 qx = -0.57 qy = -0.31 qz = 0.46
+Yaw, Pitch, Roll: 58.70, 8.64, -80.48
+rate = 229.81 Hz
+ax = -98.63 ay = -977.84 az = -121.83 mg
+gx = -24.52 gy = -4.26 gz = -6.21 deg/s
+mx = -227 my = 195 mz = -707 mG
+q0 = 0.52 qx = -0.63 qy = -0.40 qz = 0.42
+Yaw, Pitch, Roll: 62.08, 6.60, -96.44
+rate = 228.96 Hz
+ax = -75.20 ay = -848.39 az = -384.64 mg
+gx = -28.31 gy = -1.27 gz = 1.80 deg/s
+mx = -275 my = 186 mz = -812 mG
+q0 = 0.43 qx = -0.70 qy = -0.46 qz = 0.35
+Yaw, Pitch, Roll: 61.63, 4.91, -113.19
+rate = 230.10 Hz
+ax = -109.13 ay = -738.46 az = -505.43 mg
+gx = 11.46 gy = -6.60 gz = 4.85 deg/s
+mx = -316 my = 220 mz = -875 mG
+q0 = 0.37 qx = -0.76 qy = -0.45 qz = 0.29
+Yaw, Pitch, Roll: 56.53, 6.23, -124.15
+rate = 229.20 Hz
+ax = -100.95 ay = -929.38 az = -305.36 mg
+gx = 59.59 gy = -10.52 gz = 7.28 deg/s
+mx = -254 my = 200 mz = -784 mG
+q0 = 0.48 qx = -0.68 qy = -0.40 qz = 0.39
+Yaw, Pitch, Roll: 59.18, 8.17, -104.57
+rate = 231.45 Hz
+ax = 29.60 ay = -921.45 az = 467.16 mg
+gx = 65.73 gy = 32.31 gz = -6.10 deg/s
+mx = -211 my = 157 mz = -460 mG
+q0 = 0.70 qx = -0.41 qy = -0.29 qz = 0.51
+Yaw, Pitch, Roll: 63.18, 0.69, -60.61
+rate = 228.22 Hz
+ax = -76.48 ay = -381.10 az = 759.03 mg
+gx = 65.67 gy = -11.42 gz = -1.95 deg/s
+mx = -331 my = 145 mz = -279 mG
+q0 = 0.78 qx = -0.24 qy = -0.16 qz = 0.56
+Yaw, Pitch, Roll: 62.74, 1.13, -32.99
+rate = 227.79 Hz
+ax = -28.63 ay = -242.61 az = 916.44 mg
+gx = 39.51 gy = 0.14 gz = 4.16 deg/s
+mx = -446 my = 150 mz = -195 mG
+q0 = 0.80 qx = -0.10 qy = -0.07 qz = 0.59
+Yaw, Pitch, Roll: 64.12, -0.00, -14.15
+rate = 227.12 Hz
+ax = -47.73 ay = 24.66 az = 1011.41 mg
+gx = 36.34 gy = 3.97 gz = 11.47 deg/s
+mx = -537 my = 152 mz = -180 mG
+q0 = 0.79 qx = -0.00 qy = 0.01 qz = 0.61
+Yaw, Pitch, Roll: 66.51, 1.43, 0.51
+rate = 227.98 Hz
+ax = -85.33 ay = 175.05 az = 971.01 mg
+gx = 27.15 gy = -10.33 gz = 9.10 deg/s
+mx = -639 my = 175 mz = -143 mG
+q0 = 0.79 qx = 0.06 qy = 0.08 qz = 0.61
+Yaw, Pitch, Roll: 67.56, 3.66, 10.91
+rate = 226.19 Hz
+ax = -22.09 ay = 220.70 az = 959.23 mg
+gx = 5.75 gy = -23.61 gz = 15.90 deg/s
+mx = -653 my = 168 mz = -154 mG
+q0 = 0.78 qx = 0.09 qy = 0.08 qz = 0.61
+Yaw, Pitch, Roll: 67.64, 0.63, 13.48
+rate = 226.19 Hz
+ax = 227.54 ay = 144.17 az = 786.99 mg
+gx = 5.11 gy = -63.76 gz = 20.03 deg/s
+mx = -648 my = 44 mz = -190 mG
+q0 = 0.75 qx = 0.16 qy = -0.07 qz = 0.64
+Yaw, Pitch, Roll: 70.79, -17.93, 9.54
+rate = 229.19 Hz
+ax = 502.93 ay = -60.73 az = 461.55 mg
+gx = -4.92 gy = -35.75 gz = 16.02 deg/s
+mx = -610 my = -96 mz = -274 mG
+q0 = 0.70 qx = 0.26 qy = -0.29 qz = 0.59
+Yaw, Pitch, Roll: 71.33, -46.31, 1.34
+rate = 228.29 Hz
+ax = 487.79 ay = -384.70 az = 657.71 mg
+gx = -54.29 gy = 2.56 gz = 21.35 deg/s
+mx = -398 my = -87 mz = -372 mG
+q0 = 0.63 qx = -0.01 qy = -0.49 qz = 0.59
+Yaw, Pitch, Roll: 95.83, -38.15, -49.36
+rate = 227.58 Hz
+ax = 105.83 ay = -640.32 az = 217.29 mg
+gx = -49.48 gy = 110.66 gz = -5.78 deg/s
+mx = -267 my = 73 mz = -407 mG
+q0 = 0.70 qx = -0.33 qy = -0.39 qz = 0.51
+Yaw, Pitch, Roll: 70.90, -11.85, -60.04
+rate = 227.76 Hz
+ax = 294.56 ay = -398.68 az = 685.18 mg
+gx = 12.96 gy = -1.10 gz = -86.54 deg/s
+mx = -332 my = -25 mz = -385 mG
+q0 = 0.77 qx = -0.11 qy = -0.33 qz = 0.54
+Yaw, Pitch, Roll: 68.84, -22.64, -34.61
+rate = 231.17 Hz
+ax = 261.84 ay = 156.31 az = 655.03 mg
+gx = -46.52 gy = -24.23 gz = -19.70 deg/s
+mx = -548 my = -166 mz = -386 mG
+q0 = 0.80 qx = 0.20 qy = -0.24 qz = 0.51
+Yaw, Pitch, Roll: 54.12, -35.80, 5.97
+rate = 229.96 Hz
+ax = 313.54 ay = 183.47 az = 737.98 mg
+gx = -27.08 gy = 15.53 gz = -35.03 deg/s
+mx = -640 my = -191 mz = -417 mG
+q0 = 0.82 qx = 0.26 qy = -0.17 qz = 0.48
+Yaw, Pitch, Roll: 47.37, -31.60, 18.07
+rate = 231.05 Hz
+ax = 147.77 ay = 122.07 az = 924.50 mg
+gx = 42.44 gy = -8.74 gz = -35.68 deg/s
+mx = -653 my = -136 mz = -312 mG
+q0 = 0.72 qx = 0.13 qy = -0.04 qz = 0.68
+Yaw, Pitch, Roll: 77.10, -14.08, 7.80
+rate = 229.80 Hz
+ax = 277.83 ay = 512.02 az = 651.55 mg
+gx = 43.61 gy = -32.67 gz = -35.67 deg/s
+mx = -804 my = -130 mz = -390 mG
+q0 = 0.72 qx = 0.31 qy = 0.05 qz = 0.61
+Yaw, Pitch, Roll: 66.88, -18.02, 33.02
+rate = 227.80 Hz
+ax = 269.17 ay = 719.36 az = 95.40 mg
+gx = 86.53 gy = -42.02 gz = 23.12 deg/s
+mx = -877 my = -103 mz = -615 mG
+q0 = 0.74 qx = 0.55 qy = 0.07 qz = 0.39
+Yaw, Pitch, Roll: 35.18, -19.48, 65.19
+rate = 230.10 Hz
+ax = 221.68 ay = 534.18 az = -607.24 mg
+gx = 71.00 gy = -17.20 gz = 14.26 deg/s
+mx = -699 my = -46 mz = -853 mG
+q0 = 0.48 qx = 0.61 qy = -0.62 qz = -0.10
+Yaw, Pitch, Roll: -85.08, -27.82, 126.22
+rate = 227.37 Hz
+ax = 138.79 ay = 136.29 az = -767.76 mg
+gx = 44.79 gy = -28.48 gz = 9.80 deg/s
+mx = -510 my = 21 mz = -922 mG
+q0 = 0.13 qx = 0.60 qy = -0.79 qz = -0.01
+Yaw, Pitch, Roll: -113.22, -10.91, 170.56
+rate = 228.09 Hz
+ax = -55.36 ay = -269.53 az = -751.28 mg
+gx = 12.92 gy = -15.95 gz = 4.55 deg/s
+mx = -345 my = 98 mz = -868 mG
+q0 = -0.09 qx = 0.59 qy = -0.79 qz = 0.15
+Yaw, Pitch, Roll: -115.48, -1.60, -159.57
+rate = 225.94 Hz
+ax = 164.98 ay = 138.37 az = -833.44 mg
+gx = -85.80 gy = 21.03 gz = -10.35 deg/s
+mx = -441 my = 44 mz = -920 mG
+q0 = 0.10 qx = 0.61 qy = -0.79 qz = 0.02
+Yaw, Pitch, Roll: -112.95, -10.67, 174.07
+rate = 228.97 Hz
+ax = 253.85 ay = 587.95 az = -337.16 mg
+gx = -81.28 gy = 41.53 gz = -14.29 deg/s
+mx = -769 my = -55 mz = -855 mG
+q0 = 0.47 qx = 0.55 qy = -0.65 qz = -0.24
+Yaw, Pitch, Roll: -95.30, -20.42, 117.66
+rate = 227.74 Hz
+ax = 235.84 ay = 808.90 az = 300.23 mg
+gx = -68.64 gy = 50.64 gz = -8.45 deg/s
+mx = -902 my = -68 mz = -619 mG
+q0 = 0.72 qx = 0.43 qy = -0.38 qz = -0.39
+Yaw, Pitch, Roll: -73.57, -12.29, 68.65
+rate = 229.62 Hz
+ax = 39.98 ay = 492.98 az = 827.39 mg
+gx = -40.04 gy = 10.35 gz = 3.78 deg/s
+mx = -918 my = -51 mz = -407 mG
+q0 = 0.81 qx = 0.38 qy = -0.25 qz = -0.38
+Yaw, Pitch, Roll: -61.77, -6.43, 53.29
+rate = 231.76 Hz
+ax = -269.17 ay = 407.96 az = 953.49 mg
+gx = 19.54 gy = -19.36 gz = -14.92 deg/s
+mx = -863 my = 35 mz = -285 mG
+q0 = 0.90 qx = 0.42 qy = -0.08 qz = -0.11
+Yaw, Pitch, Roll: -23.38, -2.59, 50.35
+rate = 228.90 Hz
+ax = -856.69 ay = 491.09 az = 810.91 mg
+gx = 9.36 gy = 39.98 gz = -6.26 deg/s
+mx = -929 my = 274 mz = -290 mG
+q0 = 0.84 qx = 0.22 qy = 0.34 qz = 0.37
+Yaw, Pitch, Roll: 48.17, 23.92, 42.49
+rate = 230.15 Hz
+ax = -1228.45 ay = 410.34 az = 455.99 mg
+gx = 13.27 gy = 18.07 gz = -8.77 deg/s
+mx = -893 my = 432 mz = -400 mG
+q0 = 0.61 qx = -0.19 qy = 0.47 qz = 0.61
+Yaw, Pitch, Roll: 99.75, 53.38, 35.63
+rate = 230.94 Hz
+ax = -1350.10 ay = 278.26 az = 270.32 mg
+gx = 5.46 gy = 20.34 gz = -11.54 deg/s
+mx = -852 my = 487 mz = -433 mG
+q0 = 0.46 qx = -0.42 qy = 0.43 qz = 0.66
+Yaw, Pitch, Roll: 125.75, 70.47, 33.07
+rate = 231.97 Hz
+ax = -1395.20 ay = 193.48 az = 41.87 mg
+gx = 9.62 gy = 7.39 gz = 1.09 deg/s
+mx = -826 my = 561 mz = -541 mG
+q0 = 0.35 qx = -0.55 qy = 0.39 qz = 0.65
+Yaw, Pitch, Roll: 165.69, 81.68, 57.93
+rate = 229.49 Hz
+ax = -1391.24 ay = 145.63 az = -76.11 mg
+gx = 10.15 gy = 15.88 gz = 1.14 deg/s
+mx = -794 my = 550 mz = -569 mG
+q0 = 0.29 qx = -0.62 qy = 0.37 qz = 0.63
+Yaw, Pitch, Roll: -134.19, 83.90, 109.69
+rate = 229.37 Hz
+ax = -1396.61 ay = 153.99 az = -98.27 mg
+gx = 18.84 gy = -27.89 gz = 5.86 deg/s
+mx = -794 my = 568 mz = -583 mG
+q0 = 0.27 qx = -0.63 qy = 0.35 qz = 0.64
+Yaw, Pitch, Roll: -127.26, 83.20, 112.78
+rate = 229.40 Hz
+ax = -1397.95 ay = 163.76 az = 167.18 mg
+gx = 21.63 gy = -25.43 gz = 7.57 deg/s
+mx = -792 my = 552 mz = -512 mG
+q0 = 0.33 qx = -0.55 qy = 0.37 qz = 0.67
+Yaw, Pitch, Roll: 161.82, 79.83, 49.31
+rate = 228.39 Hz
+ax = -1307.62 ay = 345.83 az = 397.34 mg
+gx = 8.58 gy = -28.46 gz = 16.24 deg/s
+mx = -863 my = 483 mz = -419 mG
+q0 = 0.38 qx = -0.43 qy = 0.41 qz = 0.71
+Yaw, Pitch, Roll: 143.83, 66.40, 41.82
+rate = 229.31 Hz
+ax = -959.96 ay = 397.40 az = 857.73 mg
+gx = -17.56 gy = -58.62 gz = 38.64 deg/s
+mx = -900 my = 349 mz = -290 mG
+q0 = 0.50 qx = -0.23 qy = 0.40 qz = 0.73
+Yaw, Pitch, Roll: 116.56, 47.57, 31.35
+rate = 229.86 Hz
+ax = -641.42 ay = 535.46 az = 847.66 mg
+gx = 76.38 gy = -14.38 gz = 7.91 deg/s
+mx = -915 my = 181 mz = -255 mG
+q0 = 0.58 qx = -0.04 qy = 0.39 qz = 0.71
+Yaw, Pitch, Roll: 102.92, 30.68, 36.71
+rate = 229.11 Hz
+ax = -432.43 ay = 882.63 az = 456.67 mg
+gx = 41.39 gy = -24.51 gz = 16.85 deg/s
+mx = -1002 my = 100 mz = -436 mG
+q0 = 0.55 qx = 0.18 qy = 0.47 qz = 0.67
+Yaw, Pitch, Roll: 102.22, 16.09, 58.86
+rate = 228.09 Hz
+ax = -445.19 ay = 1079.71 az = 83.01 mg
+gx = 53.92 gy = -24.28 gz = 9.85 deg/s
+mx = -993 my = 112 mz = -627 mG
+q0 = 0.55 qx = 0.22 qy = 0.51 qz = 0.63
+Yaw, Pitch, Roll: 99.78, 16.43, 66.47
+rate = 227.79 Hz
+ax = -420.65 ay = 976.26 az = -199.52 mg
+gx = -22.20 gy = -24.78 gz = -3.62 deg/s
+mx = -943 my = 130 mz = -775 mG
+q0 = 0.46 qx = 0.09 qy = 0.56 qz = 0.68
+Yaw, Pitch, Roll: 118.67, 23.55, 66.99
+rate = 228.01 Hz
+ax = -437.19 ay = 934.94 az = 441.96 mg
+gx = -74.01 gy = -15.03 gz = 29.75 deg/s
+mx = -1020 my = 139 mz = -553 mG
+q0 = 0.29 qx = -0.03 qy = 0.49 qz = 0.82
+Yaw, Pitch, Roll: 143.08, 20.05, 56.97
+rate = 227.40 Hz
+ax = -60.67 ay = 622.56 az = 813.17 mg
+gx = 24.63 gy = -41.53 gz = 23.12 deg/s
+mx = -918 my = 26 mz = -362 mG
+q0 = 0.35 qx = 0.03 qy = 0.38 qz = 0.86
+Yaw, Pitch, Roll: 132.26, 11.85, 43.56
+rate = 229.65 Hz
+ax = 165.77 ay = 726.56 az = 478.45 mg
+gx = 79.96 gy = -20.70 gz = 32.68 deg/s
+mx = -891 my = -100 mz = -533 mG
+q0 = 0.40 qx = 0.30 qy = 0.40 qz = 0.77
+Yaw, Pitch, Roll: 112.40, -8.09, 59.65
+rate = 229.53 Hz
+ax = 441.22 ay = 536.19 az = -48.83 mg
+gx = 60.33 gy = -57.70 gz = 49.12 deg/s
+mx = -760 my = -139 mz = -719 mG
+q0 = 0.32 qx = 0.39 qy = 0.37 qz = 0.78
+Yaw, Pitch, Roll: 113.38, -22.17, 63.30
+rate = 229.46 Hz
+ax = 453.92 ay = 310.30 az = -497.44 mg
+gx = 42.05 gy = -29.25 gz = 47.21 deg/s
+mx = -605 my = -84 mz = -837 mG
+q0 = 0.47 qx = 0.59 qy = 0.03 qz = 0.66
+Yaw, Pitch, Roll: 70.49, -48.73, 62.12
+rate = 231.50 Hz
+ax = 513.43 ay = -252.44 az = -180.42 mg
+gx = 17.86 gy = 27.69 gz = 5.09 deg/s
+mx = -396 my = -96 mz = -781 mG
+q0 = 0.46 qx = 0.09 qy = -0.83 qz = 0.29
+Yaw, Pitch, Roll: 160.33, -55.49, -136.22
+rate = 230.21 Hz
+ax = 393.31 ay = -486.69 az = 334.05 mg
+gx = 85.82 gy = 37.21 gz = 37.01 deg/s
+mx = -316 my = -94 mz = -548 mG
+q0 = 0.66 qx = -0.10 qy = -0.52 qz = 0.53
+Yaw, Pitch, Roll: 88.50, -36.47, -57.14
+rate = 227.85 Hz
+ax = 86.00 ay = -321.72 az = 821.78 mg
+gx = 46.10 gy = 16.55 gz = 11.42 deg/s
+mx = -375 my = 21 mz = -305 mG
+q0 = 0.71 qx = -0.09 qy = -0.15 qz = 0.68
+Yaw, Pitch, Roll: 79.28, -5.23, -20.01
+rate = 227.84 Hz
+ax = -104.80 ay = -125.24 az = 940.06 mg
+gx = 54.20 gy = -1.14 gz = 13.11 deg/s
+mx = -439 my = 89 mz = -233 mG
+q0 = 0.76 qx = -0.06 qy = -0.01 qz = 0.65
+Yaw, Pitch, Roll: 72.94, 3.79, -6.50
+rate = 227.61 Hz
+ax = -103.15 ay = 103.58 az = 960.02 mg
+gx = 56.05 gy = -16.75 gz = 5.13 deg/s
+mx = -541 my = 127 mz = -145 mG
+q0 = 0.77 qx = 0.03 qy = 0.10 qz = 0.63
+Yaw, Pitch, Roll: 70.77, 6.40, 10.25
+rate = 226.36 Hz
+ax = -175.48 ay = 227.72 az = 1024.66 mg
+gx = 2.90 gy = 22.91 gz = 12.19 deg/s
+mx = -605 my = 156 mz = -166 mG
+q0 = 0.75 qx = 0.04 qy = 0.14 qz = 0.64
+Yaw, Pitch, Roll: 73.52, 9.82, 14.05
+rate = 227.60 Hz
+ax = -190.73 ay = 111.82 az = 1072.57 mg
+gx = -15.52 gy = -14.27 gz = 4.68 deg/s
+mx = -560 my = 190 mz = -161 mG
+q0 = 0.78 qx = -0.01 qy = 0.11 qz = 0.61
+Yaw, Pitch, Roll: 67.91, 10.76, 7.15
+rate = 227.70 Hz
+ax = -237.06 ay = -117.37 az = 899.17 mg
+gx = -46.45 gy = -33.52 gz = 22.82 deg/s
+mx = -414 my = 190 mz = -223 mG
+q0 = 0.78 qx = -0.18 qy = -0.02 qz = 0.60
+Yaw, Pitch, Roll: 65.17, 10.87, -18.45
+rate = 227.60 Hz
+ax = -213.38 ay = -765.38 az = 690.12 mg
+gx = -59.85 gy = -37.75 gz = 12.52 deg/s
+mx = -270 my = 213 mz = -352 mG
+q0 = 0.73 qx = -0.39 qy = -0.16 qz = 0.54
+Yaw, Pitch, Roll: 60.04, 11.23, -48.53
+rate = 229.72 Hz
+ax = -183.53 ay = -1063.78 az = 258.30 mg
+gx = -38.22 gy = -22.44 gz = 24.02 deg/s
+mx = -201 my = 250 mz = -588 mG
+q0 = 0.60 qx = -0.57 qy = -0.28 qz = 0.49
+Yaw, Pitch, Roll: 60.20, 13.12, -78.14
+rate = 230.88 Hz
+ax = -361.57 ay = -900.45 az = -405.40 mg
+gx = -2.40 gy = 1.77 gz = 21.74 deg/s
+mx = -270 my = 292 mz = -793 mG
+q0 = 0.41 qx = -0.76 qy = -0.30 qz = 0.40
+Yaw, Pitch, Roll: 49.43, 21.38, -111.54
+rate = 230.18 Hz
+ax = -444.40 ay = -900.76 az = -142.58 mg
+gx = 95.69 gy = 0.45 gz = -3.48 deg/s
+mx = -234 my = 310 mz = -731 mG
+q0 = 0.52 qx = -0.69 qy = -0.22 qz = 0.45
+Yaw, Pitch, Roll: 49.03, 22.94, -92.55
+rate = 229.53 Hz
+ax = -269.59 ay = -900.88 az = 415.22 mg
+gx = 54.49 gy = -8.00 gz = -15.22 deg/s
+mx = -215 my = 272 mz = -471 mG
+q0 = 0.69 qx = -0.48 qy = -0.17 qz = 0.51
+Yaw, Pitch, Roll: 56.21, 14.92, -60.85
+rate = 231.49 Hz
+ax = -117.55 ay = -526.98 az = 819.27 mg
+gx = 76.52 gy = 1.21 gz = -13.44 deg/s
+mx = -341 my = 184 mz = -266 mG
+q0 = 0.80 qx = -0.26 qy = -0.11 qz = 0.53
+Yaw, Pitch, Roll: 57.20, 5.48, -31.89
+rate = 229.38 Hz
+ax = -185.36 ay = -58.29 az = 1063.54 mg
+gx = 10.64 gy = -11.58 gz = 10.14 deg/s
+mx = -548 my = 224 mz = -159 mG
+q0 = 0.82 qx = -0.06 qy = 0.05 qz = 0.57
+Yaw, Pitch, Roll: 60.83, 8.68, -1.84
+rate = 229.63 Hz
+ax = -188.35 ay = -82.89 az = 1047.36 mg
+gx = 29.21 gy = 16.87 gz = 18.00 deg/s
+mx = -541 my = 195 mz = -155 mG
+q0 = 0.80 qx = -0.05 qy = 0.05 qz = 0.60
+Yaw, Pitch, Roll: 65.00, 7.68, -1.53
+rate = 229.62 Hz
+ax = -133.61 ay = 159.97 az = 1043.64 mg
+gx = 52.57 gy = -7.32 gz = 1.59 deg/s
+mx = -598 my = 195 mz = -155 mG
+q0 = 0.80 qx = 0.02 qy = 0.07 qz = 0.59
+Yaw, Pitch, Roll: 64.49, 5.19, 7.28
+rate = 228.40 Hz
+ax = -71.59 ay = 280.09 az = 984.31 mg
+gx = 12.10 gy = -16.64 gz = 3.31 deg/s
+mx = -715 my = 170 mz = -173 mG
+q0 = 0.78 qx = 0.10 qy = 0.11 qz = 0.60
+Yaw, Pitch, Roll: 67.21, 2.91, 16.77
+rate = 225.99 Hz
+ax = -70.50 ay = 271.73 az = 978.09 mg
+gx = 20.07 gy = 13.12 gz = 9.77 deg/s
+mx = -680 my = 173 mz = -166 mG
+q0 = 0.77 qx = 0.08 qy = 0.11 qz = 0.62
+Yaw, Pitch, Roll: 69.70, 4.48, 15.34
+rate = 227.74 Hz
+ax = -50.60 ay = 173.16 az = 1072.81 mg
+gx = -30.58 gy = -7.31 gz = 8.95 deg/s
+mx = -685 my = 190 mz = -164 mG
+q0 = 0.79 qx = 0.05 qy = 0.08 qz = 0.61
+Yaw, Pitch, Roll: 67.59, 3.89, 10.81
+rate = 227.91 Hz
+ax = -73.91 ay = -846.92 az = 479.86 mg
+gx = -92.22 gy = 8.63 gz = 24.75 deg/s
+mx = -316 my = 181 mz = -314 mG
+q0 = 0.70 qx = -0.42 qy = -0.26 qz = 0.52
+Yaw, Pitch, Roll: 61.94, 4.46, -59.53
+rate = 227.86 Hz
+ax = -159.30 ay = -952.82 az = -24.29 mg
+gx = 48.15 gy = -17.20 gz = -21.97 deg/s
+mx = -215 my = 240 mz = -657 mG
+q0 = 0.54 qx = -0.63 qy = -0.35 qz = 0.43
+Yaw, Pitch, Roll: 58.14, 9.27, -93.01
+rate = 228.91 Hz
+ax = 311.04 ay = -591.43 az = 375.31 mg
+gx = 52.25 gy = -24.96 gz = -60.13 deg/s
+mx = -290 my = 50 mz = -378 mG
+q0 = 0.73 qx = -0.21 qy = -0.40 qz = 0.51
+Yaw, Pitch, Roll: 71.42, -21.74, -50.58
+rate = 231.41 Hz
+ax = 510.74 ay = -163.70 az = 135.44 mg
+gx = 46.84 gy = -46.66 gz = -48.61 deg/s
+mx = -439 my = -143 mz = -426 mG
+q0 = 0.67 qx = 0.17 qy = -0.56 qz = 0.46
+Yaw, Pitch, Roll: 89.14, -64.85, -43.10
+rate = 229.83 Hz
+ax = 483.28 ay = -73.30 az = -273.62 mg
+gx = 21.66 gy = -45.14 gz = -25.41 deg/s
+mx = -491 my = -188 mz = -527 mG
+q0 = 0.53 qx = 0.31 qy = -0.75 qz = 0.22
+Yaw, Pitch, Roll: -145.35, -70.84, -178.30
+rate = 229.38 Hz
+ax = 70.74 ay = -126.04 az = -804.20 mg
+gx = 7.43 gy = -35.22 gz = 10.69 deg/s
+mx = -468 my = -78 mz = -843 mG
+q0 = 0.05 qx = 0.36 qy = -0.93 qz = 0.10
+Yaw, Pitch, Roll: -146.93, -9.16, -170.91
+rate = 226.47 Hz
+ax = -377.20 ay = -65.43 az = -887.15 mg
+gx = -37.80 gy = -39.99 gz = -11.48 deg/s
+mx = -441 my = 73 mz = -927 mG
+q0 = -0.09 qx = 0.51 qy = -0.86 qz = 0.03
+Yaw, Pitch, Roll: -126.38, 7.09, -171.73
+rate = 226.19 Hz
+ax = -498.17 ay = 432.80 az = -839.84 mg
+gx = -35.27 gy = -3.32 gz = -10.35 deg/s
+mx = -644 my = 134 mz = -951 mG
+q0 = 0.05 qx = 0.79 qy = -0.53 qz = -0.31
+Yaw, Pitch, Roll: -81.77, 25.72, 153.95
+rate = 227.28 Hz
+ax = -584.05 ay = 804.32 az = -510.50 mg
+gx = -34.47 gy = -4.88 gz = 15.91 deg/s
+mx = -865 my = 145 mz = -844 mG
+q0 = 0.17 qx = 0.71 qy = -0.48 qz = -0.48
+Yaw, Pitch, Roll: -93.57, 31.16, 124.52
+rate = 229.47 Hz
+ax = -341.25 ay = 1018.31 az = -199.40 mg
+gx = -23.40 gy = 27.05 gz = 30.99 deg/s
+mx = -947 my = 44 mz = -700 mG
+q0 = 0.33 qx = 0.58 qy = -0.52 qz = -0.54
+Yaw, Pitch, Roll: -105.25, 15.93, 101.76
+rate = 231.05 Hz
+ax = 107.67 ay = 914.37 az = 12.39 mg
+gx = 73.23 gy = 47.20 gz = 54.95 deg/s
+mx = -891 my = -68 mz = -643 mG
+q0 = 0.48 qx = 0.51 qy = -0.56 qz = -0.45
+Yaw, Pitch, Roll: -100.12, -4.17, 97.96
+rate = 228.14 Hz
+ax = 374.69 ay = 657.53 az = -187.99 mg
+gx = 66.10 gy = 16.53 gz = 50.83 deg/s
+mx = -783 my = -170 mz = -586 mG
+q0 = 0.58 qx = 0.50 qy = -0.61 qz = -0.21
+Yaw, Pitch, Roll: -87.43, -29.05, 106.26
+rate = 227.78 Hz
+ax = 544.56 ay = 218.38 az = -211.79 mg
+gx = 81.74 gy = -12.38 gz = 74.59 deg/s
+mx = -655 my = -231 mz = -565 mG
+q0 = 0.57 qx = 0.43 qy = -0.70 qz = 0.07
+Yaw, Pitch, Roll: -95.99, -58.00, 130.60
+rate = 229.02 Hz
+ax = 570.62 ay = -188.11 az = -234.62 mg
+gx = 38.14 gy = -46.59 gz = 46.33 deg/s
+mx = -482 my = -214 mz = -584 mG
+q0 = 0.39 qx = 0.23 qy = -0.84 qz = 0.29
+Yaw, Pitch, Roll: -174.04, -52.20, -148.83
+rate = 229.76 Hz
+ax = 195.31 ay = -565.00 az = -615.66 mg
+gx = 4.11 gy = -36.80 gz = 13.10 deg/s
+mx = -364 my = -125 mz = -681 mG
+q0 = 0.13 qx = 0.01 qy = -0.94 qz = 0.31
+Yaw, Pitch, Roll: 168.14, -14.31, -142.96
+rate = 228.08 Hz
+ax = -164.37 ay = -544.98 az = -783.57 mg
+gx = -2.43 gy = -39.87 gz = 13.44 deg/s
+mx = -329 my = -35 mz = -801 mG
+q0 = -0.02 qx = -0.04 qy = -0.96 qz = 0.26
+Yaw, Pitch, Roll: 167.80, 3.23, -149.87
+rate = 227.69 Hz
+ax = -641.72 ay = -165.41 az = -845.64 mg
+gx = -41.73 gy = -56.16 gz = 20.59 deg/s
+mx = -421 my = 175 mz = -932 mG
+q0 = -0.06 qx = -0.01 qy = -0.98 qz = 0.16
+Yaw, Pitch, Roll: 171.02, 7.23, -161.02
+rate = 228.74 Hz
+ax = -998.84 ay = 89.84 az = -745.06 mg
+gx = -38.63 gy = -55.76 gz = -9.51 deg/s
+mx = -562 my = 320 mz = -951 mG
+q0 = -0.08 qx = 0.43 qy = -0.90 qz = -0.05
+Yaw, Pitch, Roll: -137.99, 10.35, 178.71
+rate = 226.71 Hz
+ax = -1116.09 ay = 230.96 az = -673.77 mg
+gx = -2.98 gy = -12.77 gz = 4.60 deg/s
+mx = -624 my = 369 mz = -936 mG
+q0 = -0.07 qx = 0.81 qy = -0.30 qz = -0.50
+Yaw, Pitch, Roll: -59.67, 58.01, 160.24
+rate = 227.06 Hz
+ax = -964.48 ay = 392.70 az = -681.21 mg
+gx = -17.65 gy = 30.68 gz = 9.53 deg/s
+mx = -712 my = 338 mz = -930 mG
+q0 = 0.00 qx = 0.81 qy = -0.34 qz = -0.47
+Yaw, Pitch, Roll: -68.14, 50.07, 149.59
+rate = 228.08 Hz
+ax = -669.62 ay = 681.82 az = -698.06 mg
+gx = -5.49 gy = 29.40 gz = 11.52 deg/s
+mx = -815 my = 199 mz = -892 mG
+q0 = 0.08 qx = 0.77 qy = -0.46 qz = -0.43
+Yaw, Pitch, Roll: -83.38, 36.26, 139.80
+rate = 229.77 Hz
+ax = -389.04 ay = 815.92 az = -529.60 mg
+gx = -13.96 gy = 20.53 gz = 22.61 deg/s
+mx = -890 my = 69 mz = -793 mG
+q0 = 0.22 qx = 0.68 qy = -0.55 qz = -0.44
+Yaw, Pitch, Roll: -97.62, 20.45, 123.83
+rate = 229.21 Hz
+ax = -118.16 ay = 956.79 az = -184.81 mg
+gx = -16.83 gy = 40.27 gz = 26.88 deg/s
+mx = -932 my = -16 mz = -682 mG
+q0 = 0.38 qx = 0.57 qy = -0.56 qz = -0.47
+Yaw, Pitch, Roll: -102.86, 6.27, 105.75
+rate = 231.20 Hz
+ax = 120.06 ay = 818.79 az = -66.71 mg
+gx = 46.05 gy = 32.66 gz = 40.31 deg/s
+mx = -870 my = -121 mz = -553 mG
+q0 = 0.56 qx = 0.52 qy = -0.55 qz = -0.34
+Yaw, Pitch, Roll: -88.55, -14.48, 98.73
+rate = 229.60 Hz
+ax = 493.04 ay = 377.50 az = 163.09 mg
+gx = -7.18 gy = 30.96 gz = 48.39 deg/s
+mx = -708 my = -180 mz = -428 mG
+q0 = 0.75 qx = 0.43 qy = -0.50 qz = -0.05
+Yaw, Pitch, Roll: -53.86, -45.01, 79.85
+rate = 228.36 Hz
+ax = 545.10 ay = 111.33 az = 574.04 mg
+gx = -4.63 gy = 38.02 gz = 34.50 deg/s
+mx = -580 my = -145 mz = -314 mG
+q0 = 0.76 qx = 0.28 qy = -0.34 qz = 0.47
+Yaw, Pitch, Roll: 49.78, -51.86, 9.65
+rate = 229.54 Hz
+ax = 236.33 ay = -281.37 az = 787.35 mg
+gx = -25.05 gy = 92.87 gz = 10.09 deg/s
+mx = -446 my = 14 mz = -230 mG
+q0 = 0.72 qx = -0.02 qy = -0.17 qz = 0.67
+Yaw, Pitch, Roll: 79.44, -12.46, -15.62
+rate = 229.22 Hz
+ax = -125.00 ay = -324.89 az = 876.10 mg
+gx = 74.26 gy = -22.99 gz = -6.92 deg/s
+mx = -482 my = 204 mz = -178 mG
+q0 = 0.80 qx = -0.13 qy = 0.03 qz = 0.58
+Yaw, Pitch, Roll: 62.35, 12.00, -10.20
+rate = 229.50 Hz
+ax = -176.82 ay = -639.71 az = 825.26 mg
+gx = -25.09 gy = 15.48 gz = -16.46 deg/s
+mx = -297 my = 222 mz = -302 mG
+q0 = 0.79 qx = -0.33 qy = -0.08 qz = 0.52
+Yaw, Pitch, Roll: 53.75, 12.19, -37.99
+rate = 228.15 Hz
+ax = -313.90 ay = -617.37 az = 871.58 mg
+gx = 82.05 gy = 14.97 gz = 35.64 deg/s
+mx = -277 my = 220 mz = -362 mG
+q0 = 0.76 qx = -0.30 qy = -0.06 qz = 0.57
+Yaw, Pitch, Roll: 60.25, 14.75, -33.10
+rate = 231.09 Hz
+ax = -388.55 ay = -28.14 az = 1080.51 mg
+gx = 6.67 gy = -4.91 gz = -35.51 deg/s
+mx = -512 my = 263 mz = -183 mG
+q0 = 0.82 qx = -0.10 qy = 0.13 qz = 0.55
+Yaw, Pitch, Roll: 58.83, 19.00, -1.20
+rate = 229.83 Hz
+ax = -393.74 ay = -39.49 az = 1074.77 mg
+gx = 9.90 gy = -6.06 gz = 3.37 deg/s
+mx = -486 my = 250 mz = -205 mG
+q0 = 0.81 qx = -0.10 qy = 0.13 qz = 0.56
+Yaw, Pitch, Roll: 61.14, 18.99, -0.89
+rate = 227.22 Hz
+ax = -393.25 ay = -47.30 az = 1071.47 mg
+gx = 10.75 gy = -5.74 gz = 3.27 deg/s
+mx = -477 my = 242 mz = -190 mG
+q0 = 0.80 qx = -0.10 qy = 0.13 qz = 0.57
+Yaw, Pitch, Roll: 61.98, 19.43, -1.06
+rate = 228.31 Hz
+ax = -393.92 ay = -41.50 az = 1078.31 mg
+gx = 10.99 gy = -5.44 gz = 3.27 deg/s
+mx = -491 my = 252 mz = -180 mG
+q0 = 0.81 qx = -0.10 qy = 0.13 qz = 0.57
+Yaw, Pitch, Roll: 61.64, 19.56, -0.99
+rate = 226.29 Hz
+ax = -386.47 ay = -49.19 az = 1072.94 mg
+gx = 10.05 gy = -6.40 gz = -46.36 deg/s
+mx = -470 my = 191 mz = -190 mG
+q0 = 0.82 qx = -0.10 qy = 0.11 qz = 0.56
+Yaw, Pitch, Roll: 59.66, 16.89, -2.02
+rate = 227.82 Hz
+ax = -345.46 ay = -61.71 az = 1061.89 mg
+gx = 7.72 gy = -4.68 gz = -39.25 deg/s
+mx = -491 my = 145 mz = -166 mG
+q0 = 0.79 qx = -0.09 qy = 0.11 qz = 0.60
+Yaw, Pitch, Roll: 65.43, 16.15, -1.34
+rate = 225.75 Hz
+ax = -349.37 ay = -53.41 az = 1076.11 mg
+gx = 11.28 gy = -5.49 gz = -39.25 deg/s
+mx = -491 my = 109 mz = -186 mG
+q0 = 0.76 qx = -0.10 qy = 0.11 qz = 0.64
+Yaw, Pitch, Roll: 71.73, 16.68, -0.78
+rate = 227.61 Hz
+ax = -366.15 ay = -24.60 az = 1083.50 mg
+gx = 10.34 gy = -5.64 gz = 2.97 deg/s
+mx = -526 my = 87 mz = -180 mG
+q0 = 0.72 qx = -0.11 qy = 0.11 qz = 0.67
+Yaw, Pitch, Roll: 77.14, 17.42, -0.33
+rate = 226.20 Hz
+ax = -397.46 ay = 36.56 az = 1075.26 mg
+gx = 11.37 gy = -4.90 gz = -61.18 deg/s
+mx = -539 my = 64 mz = -181 mG
+q0 = 0.75 qx = -0.10 qy = 0.10 qz = 0.65
+Yaw, Pitch, Roll: 72.99, 16.52, -1.31
+rate = 227.42 Hz
+ax = -381.29 ay = 6.35 az = 1080.75 mg
+gx = 9.41 gy = -6.17 gz = 3.16 deg/s
+mx = -626 my = 55 mz = -180 mG
+q0 = 0.70 qx = -0.10 qy = 0.12 qz = 0.69
+Yaw, Pitch, Roll: 80.96, 17.85, 1.61
+rate = 226.19 Hz
+ax = -407.59 ay = 133.67 az = 1120.54 mg
+gx = 61.31 gy = -5.81 gz = -49.49 deg/s
+mx = -632 my = 53 mz = -164 mG
+q0 = 0.71 qx = -0.10 qy = 0.13 qz = 0.68
+Yaw, Pitch, Roll: 79.51, 18.75, 2.61
+rate = 227.91 Hz
+ax = -396.79 ay = -9.77 az = 1042.11 mg
+gx = 10.13 gy = -7.17 gz = -32.61 deg/s
+mx = -689 my = 71 mz = -178 mG
+q0 = 0.72 qx = -0.10 qy = 0.13 qz = 0.67
+Yaw, Pitch, Roll: 77.59, 18.43, 2.01
+rate = 227.45 Hz
+ax = -401.55 ay = 64.76 az = 1074.65 mg
+gx = 10.79 gy = -5.71 gz = 3.72 deg/s
+mx = -701 my = 55 mz = -173 mG
+q0 = 0.69 qx = -0.09 qy = 0.14 qz = 0.70
+Yaw, Pitch, Roll: 82.66, 18.84, 3.98
+rate = 226.21 Hz
+ax = -384.58 ay = 39.49 az = 1085.75 mg
+gx = -0.95 gy = -8.54 gz = -13.67 deg/s
+mx = -710 my = 64 mz = -195 mG
+q0 = 0.69 qx = -0.09 qy = 0.14 qz = 0.70
+Yaw, Pitch, Roll: 82.88, 18.86, 4.59
+rate = 225.91 Hz
+ax = -371.70 ay = 59.75 az = 1079.35 mg
+gx = 7.82 gy = -6.28 gz = -21.00 deg/s
+mx = -729 my = 91 mz = -197 mG
+q0 = 0.72 qx = -0.09 qy = 0.13 qz = 0.68
+Yaw, Pitch, Roll: 78.27, 17.98, 3.09
+rate = 227.45 Hz
+ax = -373.66 ay = 71.53 az = 1076.54 mg
+gx = 10.24 gy = -6.55 gz = -13.94 deg/s
+mx = -770 my = 111 mz = -195 mG
+q0 = 0.73 qx = -0.09 qy = 0.13 qz = 0.67
+Yaw, Pitch, Roll: 77.02, 17.91, 2.95
+rate = 227.94 Hz
+ax = -380.74 ay = 59.39 az = 1073.97 mg
+gx = 12.26 gy = -4.50 gz = 27.14 deg/s
+mx = -770 my = 111 mz = -199 mG
+q0 = 0.71 qx = -0.09 qy = 0.15 qz = 0.69
+Yaw, Pitch, Roll: 80.90, 19.25, 5.12
+rate = 226.32 Hz
+ax = -360.11 ay = 66.41 az = 1077.27 mg
+gx = 12.44 gy = -9.06 gz = -57.88 deg/s
+mx = -785 my = 107 mz = -216 mG
+q0 = 0.73 qx = -0.09 qy = 0.14 qz = 0.67
+Yaw, Pitch, Roll: 77.48, 18.43, 3.72
+rate = 225.81 Hz
+ax = -376.77 ay = 81.54 az = 1073.06 mg
+gx = 7.58 gy = -8.98 gz = -42.56 deg/s
+mx = -774 my = 118 mz = -202 mG
+q0 = 0.73 qx = -0.08 qy = 0.14 qz = 0.67
+Yaw, Pitch, Roll: 77.46, 18.78, 4.21
+rate = 227.60 Hz
+ax = -387.82 ay = 39.25 az = 1071.11 mg
+gx = 8.74 gy = -6.74 gz = -26.09 deg/s
+mx = -779 my = 191 mz = -176 mG
+q0 = 0.77 qx = -0.08 qy = 0.14 qz = 0.61
+Yaw, Pitch, Roll: 68.64, 18.06, 2.31
+rate = 226.59 Hz
+ax = -389.40 ay = 52.80 az = 1077.64 mg
+gx = 10.90 gy = -5.55 gz = 3.35 deg/s
+mx = -790 my = 195 mz = -180 mG
+q0 = 0.75 qx = -0.08 qy = 0.15 qz = 0.64
+Yaw, Pitch, Roll: 73.42, 19.14, 4.14
+rate = 227.56 Hz
+ax = -391.05 ay = 80.38 az = 1077.45 mg
+gx = 13.02 gy = -4.36 gz = 31.77 deg/s
+mx = -781 my = 197 mz = -192 mG
+q0 = 0.73 qx = -0.08 qy = 0.16 qz = 0.66
+Yaw, Pitch, Roll: 77.05, 19.60, 5.18
+rate = 227.28 Hz
+ax = -386.60 ay = 63.23 az = 1078.00 mg
+gx = 10.73 gy = -4.71 gz = 32.56 deg/s
+mx = -786 my = 152 mz = -197 mG
+q0 = 0.72 qx = -0.08 qy = 0.15 qz = 0.68
+Yaw, Pitch, Roll: 79.16, 19.23, 4.97
+rate = 227.90 Hz
+ax = -384.70 ay = 46.88 az = 1079.35 mg
+gx = 10.73 gy = -4.90 gz = 23.81 deg/s
+mx = -779 my = 116 mz = -197 mG
+q0 = 0.70 qx = -0.09 qy = 0.15 qz = 0.70
+Yaw, Pitch, Roll: 82.24, 19.54, 4.90
+rate = 227.67 Hz
+ax = -403.14 ay = 25.39 az = 1080.14 mg
+gx = 10.73 gy = -4.81 gz = 25.44 deg/s
+mx = -753 my = 93 mz = -192 mG
+q0 = 0.70 qx = -0.09 qy = 0.14 qz = 0.70
+Yaw, Pitch, Roll: 82.40, 19.12, 4.43
+rate = 228.54 Hz
+ax = -380.13 ay = 60.00 az = 1078.19 mg
+gx = 11.34 gy = -5.39 gz = 3.35 deg/s
+mx = -747 my = 80 mz = -193 mG
+q0 = 0.68 qx = -0.09 qy = 0.15 qz = 0.71
+Yaw, Pitch, Roll: 84.22, 19.43, 4.62
+rate = 227.47 Hz
+ax = -374.27 ay = 68.79 az = 1076.05 mg
+gx = 10.54 gy = -5.20 gz = 31.07 deg/s
+mx = -731 my = 53 mz = -192 mG
+q0 = 0.67 qx = -0.09 qy = 0.15 qz = 0.72
+Yaw, Pitch, Roll: 86.35, 19.14, 5.43
+rate = 227.78 Hz
+ax = -360.11 ay = 91.00 az = 1071.29 mg
+gx = 8.10 gy = -6.21 gz = 12.44 deg/s
+mx = -689 my = 43 mz = -209 mG
+q0 = 0.66 qx = -0.10 qy = 0.15 qz = 0.73
+Yaw, Pitch, Roll: 88.26, 19.63, 5.49
+rate = 227.80 Hz
+ax = -376.04 ay = 55.24 az = 1071.04 mg
+gx = 7.34 gy = -4.08 gz = 3.13 deg/s
+mx = -678 my = 50 mz = -192 mG
+q0 = 0.68 qx = -0.09 qy = 0.14 qz = 0.71
+Yaw, Pitch, Roll: 85.16, 19.14, 4.55
+rate = 227.71 Hz
+ax = -394.53 ay = 62.87 az = 1075.32 mg
+gx = 8.66 gy = -4.97 gz = -3.75 deg/s
+mx = -681 my = 46 mz = -188 mG
+q0 = 0.69 qx = -0.09 qy = 0.13 qz = 0.70
+Yaw, Pitch, Roll: 83.24, 18.40, 3.82
+rate = 225.97 Hz
+ax = -409.55 ay = 89.23 az = 1079.96 mg
+gx = 12.57 gy = -5.64 gz = 32.07 deg/s
+mx = -640 my = 52 mz = -197 mG
+q0 = 0.66 qx = -0.10 qy = 0.15 qz = 0.73
+Yaw, Pitch, Roll: 88.77, 19.93, 4.96
+rate = 227.98 Hz
+ax = -375.00 ay = 34.91 az = 1077.39 mg
+gx = 9.09 gy = -5.61 gz = 16.49 deg/s
+mx = -628 my = 53 mz = -185 mG
+q0 = 0.68 qx = -0.10 qy = 0.14 qz = 0.72
+Yaw, Pitch, Roll: 85.32, 19.19, 3.79
+rate = 227.68 Hz
+ax = -336.30 ay = 17.15 az = 1074.16 mg
+gx = 11.16 gy = -5.34 gz = 48.29 deg/s
+mx = -599 my = 61 mz = -174 mG
+q0 = 0.66 qx = -0.10 qy = 0.14 qz = 0.73
+Yaw, Pitch, Roll: 88.15, 19.66, 4.35
+rate = 227.92 Hz
+ax = -377.62 ay = 1.59 az = 1076.60 mg
+gx = 9.95 gy = -4.98 gz = 19.86 deg/s
+mx = -548 my = 91 mz = -186 mG
+q0 = 0.69 qx = -0.11 qy = 0.14 qz = 0.70
+Yaw, Pitch, Roll: 82.58, 19.85, 2.60
+rate = 227.84 Hz
+ax = -378.60 ay = 17.40 az = 1080.44 mg
+gx = 8.28 gy = -4.43 gz = 26.60 deg/s
+mx = -530 my = 127 mz = -190 mG
+q0 = 0.71 qx = -0.11 qy = 0.13 qz = 0.69
+Yaw, Pitch, Roll: 80.25, 19.53, 2.18
+rate = 227.68 Hz
+ax = -384.58 ay = 13.79 az = 1076.72 mg
+gx = 11.40 gy = -5.94 gz = 23.25 deg/s
+mx = -493 my = 121 mz = -185 mG
+q0 = 0.72 qx = -0.11 qy = 0.14 qz = 0.67
+Yaw, Pitch, Roll: 78.18, 19.89, 1.87
+rate = 227.90 Hz
+ax = -367.37 ay = 49.87 az = 1081.30 mg
+gx = 11.78 gy = -6.65 gz = 66.69 deg/s
+mx = -509 my = 156 mz = -176 mG
+q0 = 0.72 qx = -0.10 qy = 0.14 qz = 0.67
+Yaw, Pitch, Roll: 77.80, 20.08, 2.29
+rate = 227.88 Hz
+ax = -385.93 ay = -23.74 az = 1080.20 mg
+gx = 10.31 gy = -5.66 gz = 8.19 deg/s
+mx = -491 my = 206 mz = -180 mG
+q0 = 0.77 qx = -0.11 qy = 0.14 qz = 0.61
+Yaw, Pitch, Roll: 68.77, 20.54, -0.14
+rate = 227.68 Hz
+ax = -408.81 ay = -44.01 az = 1073.67 mg
+gx = 11.40 gy = -6.27 gz = 25.69 deg/s
+mx = -507 my = 243 mz = -181 mG
+q0 = 0.78 qx = -0.11 qy = 0.14 qz = 0.61
+Yaw, Pitch, Roll: 67.43, 20.63, 0.12
+rate = 227.87 Hz
+ax = -393.19 ay = -25.33 az = 1080.38 mg
+gx = 10.63 gy = -5.64 gz = 3.45 deg/s
+mx = -489 my = 243 mz = -174 mG
+q0 = 0.80 qx = -0.10 qy = 0.14 qz = 0.57
+Yaw, Pitch, Roll: 62.74, 19.77, -0.45
+rate = 227.57 Hz
+ax = -392.46 ay = -28.75 az = 1074.77 mg
+gx = 11.46 gy = -5.04 gz = 3.33 deg/s
+mx = -498 my = 234 mz = -180 mG
+q0 = 0.80 qx = -0.10 qy = 0.13 qz = 0.58
+Yaw, Pitch, Roll: 63.25, 19.41, -0.34
+rate = 228.29 Hz
+ax = -398.86 ay = -26.06 az = 1080.51 mg
+gx = 9.92 gy = -6.76 gz = 22.81 deg/s
+mx = -530 my = 292 mz = -186 mG
+q0 = 0.78 qx = -0.11 qy = 0.15 qz = 0.59
+Yaw, Pitch, Roll: 66.06, 21.21, 0.53
+rate = 227.47 Hz
+ax = -398.99 ay = -23.07 az = 1080.81 mg
+gx = 10.39 gy = -6.11 gz = 3.33 deg/s
+mx = -530 my = 295 mz = -204 mG
+q0 = 0.81 qx = -0.10 qy = 0.14 qz = 0.56
+Yaw, Pitch, Roll: 61.49, 19.83, -0.03
+rate = 227.92 Hz
+ax = -440.19 ay = -45.29 az = 1071.53 mg
+gx = 7.00 gy = -3.82 gz = -74.57 deg/s
+mx = -512 my = 263 mz = -197 mG
+q0 = 0.83 qx = -0.10 qy = 0.13 qz = 0.53
+Yaw, Pitch, Roll: 56.43, 19.35, -1.61
+rate = 227.59 Hz
+ax = -366.94 ay = -52.86 az = 1053.65 mg
+gx = 8.82 gy = -5.21 gz = -2.30 deg/s
+mx = -477 my = 213 mz = -183 mG
+q0 = 0.81 qx = -0.10 qy = 0.12 qz = 0.56
+Yaw, Pitch, Roll: 60.76, 17.44, -1.65
+rate = 227.55 Hz
+ax = -382.87 ay = -54.63 az = 1077.58 mg
+gx = 10.48 gy = -6.03 gz = 3.30 deg/s
+mx = -482 my = 186 mz = -178 mG
+q0 = 0.79 qx = -0.11 qy = 0.12 qz = 0.59
+Yaw, Pitch, Roll: 64.77, 17.88, -1.85
+rate = 229.41 Hz
+ax = -378.66 ay = -46.02 az = 1075.87 mg
+gx = 9.73 gy = -5.37 gz = 3.49 deg/s
+mx = -482 my = 186 mz = -192 mG
+q0 = 0.77 qx = -0.11 qy = 0.12 qz = 0.61
+Yaw, Pitch, Roll: 68.15, 18.61, -1.42
+rate = 228.60 Hz
+ax = -379.27 ay = -49.56 az = 1077.76 mg
+gx = 7.58 gy = -4.24 gz = 3.39 deg/s
+mx = -487 my = 188 mz = -180 mG
+q0 = 0.78 qx = -0.11 qy = 0.12 qz = 0.61
+Yaw, Pitch, Roll: 67.04, 18.74, -1.47
+rate = 227.77 Hz
+ax = -362.06 ay = -62.87 az = 1077.33 mg
+gx = 10.32 gy = -3.78 gz = -11.38 deg/s
+mx = -471 my = 193 mz = -181 mG
+q0 = 0.79 qx = -0.11 qy = 0.12 qz = 0.59
+Yaw, Pitch, Roll: 64.79, 18.86, -2.02
+rate = 228.03 Hz
+ax = -371.95 ay = -35.83 az = 1080.93 mg
+gx = 13.34 gy = -8.30 gz = 3.23 deg/s
+mx = -494 my = 159 mz = -183 mG
+q0 = 0.77 qx = -0.11 qy = 0.11 qz = 0.62
+Yaw, Pitch, Roll: 68.71, 17.80, -1.44
+rate = 227.03 Hz
+ax = -374.69 ay = -41.87 az = 1075.13 mg
+gx = 10.32 gy = -5.87 gz = 3.35 deg/s
+mx = -480 my = 156 mz = -176 mG
+q0 = 0.76 qx = -0.11 qy = 0.12 qz = 0.63
+Yaw, Pitch, Roll: 71.15, 18.63, -1.12
+rate = 228.13 Hz
+ax = -372.99 ay = -35.46 az = 1080.14 mg
+gx = 12.79 gy = -6.59 gz = 3.30 deg/s
+mx = -487 my = 156 mz = -183 mG
+q0 = 0.76 qx = -0.11 qy = 0.12 qz = 0.63
+Yaw, Pitch, Roll: 71.35, 18.74, -1.10
+rate = 226.41 Hz
+ax = -383.67 ay = -59.51 az = 1064.94 mg
+gx = 12.86 gy = -5.49 gz = 3.46 deg/s
+mx = -484 my = 152 mz = -197 mG
+q0 = 0.75 qx = -0.12 qy = 0.12 qz = 0.64
+Yaw, Pitch, Roll: 71.72, 19.02, -1.56
+rate = 227.36 Hz
+ax = -384.40 ay = -50.90 az = 1070.68 mg
+gx = 23.77 gy = -12.89 gz = 3.07 deg/s
+mx = -480 my = 152 mz = -186 mG
+q0 = 0.76 qx = -0.12 qy = 0.12 qz = 0.63
+Yaw, Pitch, Roll: 71.16, 18.87, -1.58
+rate = 227.88 Hz
+ax = -374.33 ay = -45.41 az = 1073.43 mg
+gx = 10.29 gy = -5.63 gz = 3.41 deg/s
+mx = -484 my = 152 mz = -173 mG
+q0 = 0.76 qx = -0.11 qy = 0.12 qz = 0.63
+Yaw, Pitch, Roll: 71.09, 18.62, -1.18
+rate = 226.09 Hz
+ax = -370.00 ay = -57.19 az = 1081.73 mg
+gx = 9.48 gy = -4.80 gz = -27.17 deg/s
+mx = -493 my = 136 mz = -185 mG
+q0 = 0.77 qx = -0.11 qy = 0.11 qz = 0.62
+Yaw, Pitch, Roll: 69.32, 17.98, -1.53
+rate = 227.45 Hz
+ax = -360.84 ay = 4.33 az = 1074.28 mg
+gx = 12.09 gy = -6.35 gz = -17.89 deg/s
+mx = -509 my = 116 mz = -186 mG
+q0 = 0.77 qx = -0.10 qy = 0.10 qz = 0.62
+Yaw, Pitch, Roll: 69.12, 15.80, -1.33
+rate = 227.54 Hz
+ax = -371.46 ay = -3.30 az = 1078.80 mg
+gx = 9.46 gy = -6.63 gz = -37.66 deg/s
+mx = -576 my = 59 mz = -186 mG
+q0 = 0.74 qx = -0.10 qy = 0.11 qz = 0.66
+Yaw, Pitch, Roll: 74.76, 16.78, -0.68
+rate = 229.22 Hz
+ax = -372.68 ay = 10.99 az = 1078.74 mg
+gx = 10.55 gy = -6.97 gz = -41.16 deg/s
+mx = -626 my = 30 mz = -200 mG
+q0 = 0.71 qx = -0.09 qy = 0.11 qz = 0.69
+Yaw, Pitch, Roll: 80.51, 16.52, 1.45
+rate = 228.55 Hz
+ax = -362.06 ay = 43.64 az = 1070.37 mg
+gx = 8.69 gy = -6.63 gz = 3.37 deg/s
+mx = -635 my = 35 mz = -181 mG
+q0 = 0.68 qx = -0.09 qy = 0.13 qz = 0.71
+Yaw, Pitch, Roll: 84.47, 17.96, 3.71
+rate = 226.30 Hz
+ax = -395.20 ay = 72.94 az = 1046.14 mg
+gx = 15.03 gy = -7.08 gz = -49.75 deg/s
+mx = -683 my = 37 mz = -190 mG
+q0 = 0.72 qx = -0.08 qy = 0.13 qz = 0.68
+Yaw, Pitch, Roll: 79.01, 17.62, 3.70
+rate = 227.62 Hz
+ax = -351.20 ay = 44.98 az = 1070.01 mg
+gx = 7.44 gy = -6.68 gz = -26.95 deg/s
+mx = -749 my = 61 mz = -205 mG
+q0 = 0.72 qx = -0.08 qy = 0.13 qz = 0.67
+Yaw, Pitch, Roll: 78.12, 17.52, 4.00
+rate = 226.97 Hz
+ax = -364.07 ay = -8.97 az = 1078.92 mg
+gx = 9.74 gy = -7.35 gz = -43.94 deg/s
+mx = -744 my = 91 mz = -200 mG
+q0 = 0.71 qx = -0.08 qy = 0.14 qz = 0.68
+Yaw, Pitch, Roll: 79.68, 18.10, 4.73
+rate = 228.52 Hz
+ax = -391.30 ay = 47.30 az = 1077.09 mg
+gx = 10.30 gy = -6.71 gz = -25.71 deg/s
+mx = -774 my = 150 mz = -188 mG
+q0 = 0.75 qx = -0.08 qy = 0.13 qz = 0.65
+Yaw, Pitch, Roll: 73.62, 17.96, 2.71
+rate = 227.82 Hz
+ax = -389.77 ay = 33.33 az = 1077.15 mg
+gx = 9.89 gy = -5.89 gz = -4.99 deg/s
+mx = -783 my = 181 mz = -197 mG
+q0 = 0.75 qx = -0.09 qy = 0.14 qz = 0.64
+Yaw, Pitch, Roll: 73.06, 18.74, 2.70
+rate = 227.59 Hz
+ax = -382.51 ay = 57.68 az = 1079.35 mg
+gx = 9.71 gy = -5.15 gz = 41.51 deg/s
+mx = -783 my = 181 mz = -197 mG
+q0 = 0.73 qx = -0.09 qy = 0.15 qz = 0.67
+Yaw, Pitch, Roll: 77.14, 19.57, 3.89
+rate = 227.65 Hz
+ax = -392.46 ay = 52.98 az = 1081.54 mg
+gx = 11.31 gy = -5.63 gz = 22.74 deg/s
+mx = -772 my = 138 mz = -197 mG
+q0 = 0.71 qx = -0.09 qy = 0.15 qz = 0.68
+Yaw, Pitch, Roll: 79.49, 19.56, 4.22
+rate = 227.45 Hz
+ax = -384.34 ay = 57.98 az = 1071.29 mg
+gx = 11.39 gy = -4.98 gz = 24.60 deg/s
+mx = -770 my = 114 mz = -202 mG
+q0 = 0.69 qx = -0.09 qy = 0.15 qz = 0.70
+Yaw, Pitch, Roll: 82.62, 19.54, 4.89
+rate = 229.68 Hz
+ax = -367.37 ay = 56.27 az = 1077.94 mg
+gx = 10.92 gy = -5.52 gz = 16.53 deg/s
+mx = -769 my = 87 mz = -200 mG
+q0 = 0.69 qx = -0.09 qy = 0.14 qz = 0.70
+Yaw, Pitch, Roll: 83.33, 18.98, 4.74
+rate = 229.73 Hz
+ax = -381.47 ay = 72.02 az = 1076.35 mg
+gx = 11.86 gy = -5.40 gz = 38.80 deg/s
+mx = -751 my = 77 mz = -207 mG
+q0 = 0.68 qx = -0.09 qy = 0.14 qz = 0.71
+Yaw, Pitch, Roll: 84.36, 18.89, 4.59
+rate = 228.49 Hz
+ax = -395.08 ay = 27.59 az = 1086.12 mg
+gx = 12.83 gy = -3.80 gz = 26.21 deg/s
+mx = -710 my = 75 mz = -212 mG
+q0 = 0.67 qx = -0.09 qy = 0.15 qz = 0.72
+Yaw, Pitch, Roll: 87.04, 19.48, 6.07
+rate = 227.39 Hz
+ax = -402.34 ay = 257.32 az = 1059.08 mg
+gx = 9.22 gy = -2.74 gz = 60.23 deg/s
+mx = -683 my = 37 mz = -200 mG
+q0 = 0.67 qx = -0.09 qy = 0.13 qz = 0.73
+Yaw, Pitch, Roll: 87.36, 18.00, 4.15
+rate = 227.83 Hz
+ax = -368.53 ay = 57.68 az = 1073.00 mg
+gx = 12.29 gy = -5.63 gz = 3.27 deg/s
+mx = -669 my = 30 mz = -183 mG
+q0 = 0.68 qx = -0.09 qy = 0.14 qz = 0.71
+Yaw, Pitch, Roll: 84.71, 18.26, 4.21
+rate = 226.21 Hz
+ax = -370.42 ay = 55.60 az = 1081.73 mg
+gx = 4.96 gy = -4.04 gz = 3.38 deg/s
+mx = -676 my = 44 mz = -186 mG
+q0 = 0.68 qx = -0.09 qy = 0.14 qz = 0.71
+Yaw, Pitch, Roll: 84.67, 18.55, 4.39
+rate = 227.51 Hz
+ax = -401.61 ay = 37.90 az = 1084.35 mg
+gx = 14.27 gy = -3.14 gz = 29.86 deg/s
+mx = -644 my = 52 mz = -193 mG
+q0 = 0.65 qx = -0.10 qy = 0.15 qz = 0.74
+Yaw, Pitch, Roll: 89.43, 19.82, 6.08
+rate = 226.37 Hz
+ax = -364.44 ay = 45.29 az = 1088.13 mg
+gx = 8.18 gy = -3.91 gz = 25.15 deg/s
+mx = -616 my = 62 mz = -193 mG
+q0 = 0.67 qx = -0.11 qy = 0.13 qz = 0.72
+Yaw, Pitch, Roll: 85.93, 19.45, 3.13
+rate = 227.82 Hz
+ax = -369.26 ay = 6.41 az = 1075.50 mg
+gx = 10.34 gy = -5.50 gz = 17.82 deg/s
+mx = -582 my = 61 mz = -188 mG
+q0 = 0.68 qx = -0.11 qy = 0.13 qz = 0.72
+Yaw, Pitch, Roll: 85.32, 19.27, 2.73
+rate = 227.84 Hz
+ax = -369.20 ay = -7.81 az = 1080.51 mg
+gx = 10.19 gy = -5.20 gz = 37.86 deg/s
+mx = -576 my = 73 mz = -176 mG
+q0 = 0.69 qx = -0.11 qy = 0.13 qz = 0.71
+Yaw, Pitch, Roll: 83.57, 19.24, 2.23
+rate = 227.69 Hz
+ax = -373.47 ay = -1.59 az = 1073.49 mg
+gx = 9.76 gy = -5.70 gz = 17.30 deg/s
+mx = -510 my = 114 mz = -202 mG
+q0 = 0.70 qx = -0.11 qy = 0.14 qz = 0.69
+Yaw, Pitch, Roll: 80.87, 20.23, 1.72
+rate = 227.31 Hz
+ax = -365.60 ay = -13.43 az = 1085.33 mg
+gx = 11.09 gy = -5.29 gz = 22.09 deg/s
+mx = -494 my = 141 mz = -183 mG
+q0 = 0.72 qx = -0.11 qy = 0.14 qz = 0.67
+Yaw, Pitch, Roll: 76.93, 20.01, 1.41
+rate = 228.09 Hz
+ax = -370.67 ay = -5.68 az = 1082.95 mg
+gx = 12.78 gy = -5.53 gz = 31.49 deg/s
+mx = -496 my = 190 mz = -174 mG
+q0 = 0.74 qx = -0.11 qy = 0.15 qz = 0.65
+Yaw, Pitch, Roll: 74.27, 21.16, 2.05
+rate = 227.78 Hz
+ax = -408.33 ay = 10.38 az = 1076.84 mg
+gx = 11.03 gy = -4.73 gz = 77.16 deg/s
+mx = -498 my = 191 mz = -173 mG
+q0 = 0.76 qx = -0.10 qy = 0.14 qz = 0.63
+Yaw, Pitch, Roll: 71.21, 19.68, 1.49
+rate = 227.79 Hz
+ax = -389.04 ay = 3.97 az = 1087.59 mg
+gx = 10.14 gy = -4.81 gz = 28.35 deg/s
+mx = -516 my = 252 mz = -186 mG
+q0 = 0.77 qx = -0.10 qy = 0.16 qz = 0.61
+Yaw, Pitch, Roll: 68.80, 21.00, 2.53
+rate = 229.84 Hz
+ax = -401.43 ay = 6.35 az = 1084.84 mg
+gx = 10.96 gy = -5.11 gz = 27.69 deg/s
+mx = -546 my = 290 mz = -178 mG
+q0 = 0.78 qx = -0.10 qy = 0.16 qz = 0.59
+Yaw, Pitch, Roll: 66.19, 21.72, 2.56
+rate = 229.37 Hz
+ax = -400.94 ay = 11.96 az = 1075.74 mg
+gx = 17.18 gy = -4.81 gz = 20.53 deg/s
+mx = -564 my = 294 mz = -185 mG
+q0 = 0.80 qx = -0.09 qy = 0.16 qz = 0.58
+Yaw, Pitch, Roll: 63.60, 20.45, 2.43
+rate = 228.15 Hz
+ax = -409.67 ay = 29.42 az = 1081.85 mg
+gx = 9.12 gy = -6.42 gz = 4.68 deg/s
+mx = -578 my = 308 mz = -188 mG
+q0 = 0.81 qx = -0.08 qy = 0.16 qz = 0.56
+Yaw, Pitch, Roll: 61.96, 20.62, 2.66
+rate = 227.90 Hz
+ax = -403.99 ay = 33.45 az = 1071.35 mg
+gx = 10.37 gy = -5.53 gz = 3.42 deg/s
+mx = -582 my = 304 mz = -188 mG
+q0 = 0.81 qx = -0.08 qy = 0.16 qz = 0.56
+Yaw, Pitch, Roll: 61.49, 20.20, 3.00
+rate = 227.92 Hz
+ax = -409.61 ay = 25.94 az = 1083.44 mg
+gx = 7.62 gy = -6.81 gz = -24.90 deg/s
+mx = -585 my = 315 mz = -188 mG
+q0 = 0.82 qx = -0.08 qy = 0.15 qz = 0.54
+Yaw, Pitch, Roll: 58.69, 19.70, 2.03
+rate = 226.03 Hz
+ax = -402.22 ay = -15.20 az = 1082.28 mg
+gx = 11.24 gy = -4.93 gz = -18.75 deg/s
+mx = -530 my = 277 mz = -190 mG
+q0 = 0.83 qx = -0.09 qy = 0.14 qz = 0.54
+Yaw, Pitch, Roll: 57.75, 18.85, 0.25
+rate = 227.85 Hz
+ax = -384.58 ay = -7.14 az = 1078.37 mg
+gx = 9.63 gy = -5.62 gz = -12.91 deg/s
+mx = -521 my = 276 mz = -192 mG
+q0 = 0.83 qx = -0.09 qy = 0.13 qz = 0.53
+Yaw, Pitch, Roll: 57.01, 18.45, -0.27
+rate = 227.60 Hz
+ax = -440.25 ay = -21.48 az = 1080.44 mg
+gx = 11.68 gy = -5.65 gz = 1.17 deg/s
+mx = -487 my = 227 mz = -186 mG
+q0 = 0.81 qx = -0.09 qy = 0.13 qz = 0.57
+Yaw, Pitch, Roll: 61.46, 18.11, 0.16
+rate = 227.70 Hz
+ax = -383.18 ay = -24.96 az = 1077.45 mg
+gx = 10.39 gy = -5.91 gz = 1.07 deg/s
+mx = -503 my = 200 mz = -185 mG
+q0 = 0.80 qx = -0.09 qy = 0.12 qz = 0.58
+Yaw, Pitch, Roll: 63.59, 17.89, -0.24
+rate = 227.60 Hz
+ax = -380.31 ay = -50.05 az = 1073.85 mg
+gx = 8.23 gy = -4.69 gz = -22.86 deg/s
+mx = -493 my = 204 mz = -188 mG
+q0 = 0.80 qx = -0.10 qy = 0.13 qz = 0.58
+Yaw, Pitch, Roll: 63.89, 18.70, -1.16
+rate = 226.14 Hz
+ax = -381.84 ay = -42.72 az = 1070.50 mg
+gx = 6.10 gy = -3.68 gz = -25.96 deg/s
+mx = -493 my = 164 mz = -178 mG
+q0 = 0.78 qx = -0.11 qy = 0.12 qz = 0.61
+Yaw, Pitch, Roll: 67.64, 18.33, -1.58
+rate = 227.66 Hz
+ax = -410.28 ay = -84.41 az = 1074.10 mg
+gx = 9.16 gy = -2.78 gz = -61.29 deg/s
+mx = -487 my = 148 mz = -183 mG
+q0 = 0.78 qx = -0.12 qy = 0.11 qz = 0.60
+Yaw, Pitch, Roll: 65.98, 17.94, -3.21
+rate = 227.54 Hz
+ax = -376.77 ay = -51.27 az = 1073.91 mg
+gx = 8.14 gy = -4.42 gz = 0.13 deg/s
+mx = -500 my = 107 mz = -195 mG
+q0 = 0.74 qx = -0.11 qy = 0.11 qz = 0.65
+Yaw, Pitch, Roll: 74.01, 18.13, -1.56
+rate = 228.19 Hz
+ax = -364.44 ay = -49.13 az = 1080.20 mg
+gx = 13.98 gy = -6.42 gz = -23.69 deg/s
+mx = -523 my = 84 mz = -180 mG
+q0 = 0.74 qx = -0.11 qy = 0.11 qz = 0.65
+Yaw, Pitch, Roll: 73.59, 17.61, -1.56
+rate = 227.94 Hz
+ax = -351.68 ay = 24.29 az = 1072.94 mg
+gx = 8.24 gy = -8.24 gz = -48.69 deg/s
+mx = -566 my = 77 mz = -173 mG
+q0 = 0.74 qx = -0.10 qy = 0.12 qz = 0.66
+Yaw, Pitch, Roll: 75.16, 17.34, 0.86
+rate = 227.47 Hz
+ax = -361.27 ay = 12.27 az = 1071.90 mg
+gx = 10.37 gy = -5.73 gz = 3.41 deg/s
+mx = -571 my = 53 mz = -178 mG
+q0 = 0.70 qx = -0.10 qy = 0.12 qz = 0.70
+Yaw, Pitch, Roll: 81.94, 17.81, 1.70
+rate = 226.60 Hz
+ax = -397.58 ay = 8.42 az = 1077.39 mg
+gx = 11.37 gy = -4.65 gz = -74.15 deg/s
+mx = -605 my = 41 mz = -190 mG
+q0 = 0.73 qx = -0.10 qy = 0.11 qz = 0.67
+Yaw, Pitch, Roll: 76.12, 17.20, 0.57
+rate = 227.16 Hz
+ax = -373.72 ay = 83.80 az = 1058.11 mg
+gx = 8.51 gy = -7.66 gz = -36.19 deg/s
+mx = -701 my = 52 mz = -197 mG
+q0 = 0.73 qx = -0.08 qy = 0.12 qz = 0.67
+Yaw, Pitch, Roll: 76.58, 16.69, 2.61
+rate = 227.65 Hz
+ax = -376.10 ay = 32.71 az = 1077.45 mg
+gx = 5.91 gy = -8.40 gz = -65.01 deg/s
+mx = -754 my = 80 mz = -190 mG
+q0 = 0.74 qx = -0.09 qy = 0.13 qz = 0.66
+Yaw, Pitch, Roll: 75.47, 17.77, 2.51
+rate = 226.52 Hz
+ax = -392.76 ay = 57.74 az = 1074.40 mg
+gx = 7.60 gy = -6.23 gz = -21.74 deg/s
+mx = -770 my = 114 mz = -202 mG
+q0 = 0.74 qx = -0.09 qy = 0.13 qz = 0.66
+Yaw, Pitch, Roll: 75.45, 18.00, 2.68
+rate = 227.78 Hz
+ax = -378.23 ay = 29.11 az = 1076.05 mg
+gx = 8.19 gy = -5.73 gz = -16.41 deg/s
+mx = -795 my = 154 mz = -192 mG
+q0 = 0.75 qx = -0.09 qy = 0.14 qz = 0.64
+Yaw, Pitch, Roll: 73.49, 18.89, 2.19
+rate = 227.44 Hz
+ax = -353.09 ay = -10.44 az = 1073.36 mg
+gx = 7.37 gy = -5.66 gz = 74.80 deg/s
+mx = -776 my = 127 mz = -193 mG
+q0 = 0.69 qx = -0.10 qy = 0.15 qz = 0.70
+Yaw, Pitch, Roll: 83.39, 19.82, 4.43
+rate = 227.83 Hz
+ax = -383.97 ay = 46.51 az = 1074.77 mg
+gx = 12.54 gy = -4.66 gz = 40.16 deg/s
+mx = -731 my = 75 mz = -185 mG
+q0 = 0.67 qx = -0.10 qy = 0.15 qz = 0.72
+Yaw, Pitch, Roll: 86.52, 20.06, 5.51
+rate = 227.90 Hz
+ax = -380.37 ay = 70.50 az = 1075.68 mg
+gx = 12.31 gy = -4.16 gz = 34.26 deg/s
+mx = -703 my = 50 mz = -199 mG
+q0 = 0.66 qx = -0.09 qy = 0.15 qz = 0.73
+Yaw, Pitch, Roll: 87.80, 19.86, 5.91
+rate = 227.88 Hz
+ax = -390.87 ay = 76.60 az = 1073.67 mg
+gx = 11.96 gy = -3.52 gz = 47.37 deg/s
+mx = -669 my = 48 mz = -190 mG
+q0 = 0.65 qx = -0.10 qy = 0.16 qz = 0.74
+Yaw, Pitch, Roll: 90.32, 20.23, 6.80
+rate = 229.73 Hz
+ax = -377.32 ay = 48.03 az = 1079.10 mg
+gx = 10.85 gy = -5.31 gz = 28.81 deg/s
+mx = -598 my = 59 mz = -180 mG
+q0 = 0.66 qx = -0.10 qy = 0.15 qz = 0.73
+Yaw, Pitch, Roll: 88.34, 19.85, 4.87
+rate = 228.33 Hz
+ax = -374.45 ay = 25.45 az = 1072.81 mg
+gx = 4.67 gy = -7.38 gz = 7.43 deg/s
+mx = -580 my = 62 mz = -190 mG
+q0 = 0.68 qx = -0.10 qy = 0.14 qz = 0.72
+Yaw, Pitch, Roll: 85.35, 19.29, 3.56
+rate = 227.74 Hz
+ax = -368.23 ay = 29.30 az = 1076.84 mg
+gx = 10.41 gy = -5.92 gz = 3.36 deg/s
+mx = -596 my = 68 mz = -205 mG
+q0 = 0.70 qx = -0.10 qy = 0.13 qz = 0.70
+Yaw, Pitch, Roll: 81.84, 18.21, 2.77
+rate = 227.45 Hz
+ax = -366.88 ay = 34.55 az = 1075.56 mg
+gx = 9.61 gy = -6.23 gz = 3.56 deg/s
+mx = -566 my = 77 mz = -186 mG
+q0 = 0.70 qx = -0.09 qy = 0.13 qz = 0.69
+Yaw, Pitch, Roll: 81.28, 18.28, 3.03
+rate = 226.25 Hz
+ax = -366.88 ay = 37.66 az = 1075.07 mg
+gx = 11.12 gy = -5.66 gz = 3.38 deg/s
+mx = -573 my = 62 mz = -180 mG
+q0 = 0.70 qx = -0.09 qy = 0.13 qz = 0.70
+Yaw, Pitch, Roll: 82.30, 18.13, 3.10
+rate = 225.87 Hz
+ax = -365.42 ay = 30.82 az = 1077.70 mg
+gx = 11.06 gy = -5.83 gz = 3.38 deg/s
+mx = -580 my = 69 mz = -180 mG
+q0 = 0.71 qx = -0.09 qy = 0.13 qz = 0.69
+Yaw, Pitch, Roll: 80.71, 18.31, 2.86
+rate = 226.15 Hz
+ax = -370.06 ay = 8.97 az = 1072.57 mg
+gx = 12.88 gy = -2.98 gz = 62.16 deg/s
+mx = -557 my = 93 mz = -185 mG
+q0 = 0.67 qx = -0.11 qy = 0.15 qz = 0.72
+Yaw, Pitch, Roll: 86.97, 20.59, 4.67
+rate = 227.64 Hz
+ax = -386.41 ay = 0.18 az = 1079.65 mg
+gx = 11.72 gy = -3.30 gz = 56.61 deg/s
+mx = -512 my = 156 mz = -186 mG
+q0 = 0.70 qx = -0.11 qy = 0.16 qz = 0.69
+Yaw, Pitch, Roll: 81.35, 22.31, 4.26
+rate = 228.25 Hz
+ax = -415.47 ay = -16.05 az = 1079.96 mg
+gx = -8.87 gy = -5.87 gz = 59.06 deg/s
+mx = -503 my = 215 mz = -168 mG
+q0 = 0.74 qx = -0.11 qy = 0.14 qz = 0.64
+Yaw, Pitch, Roll: 73.62, 21.18, 1.13
+rate = 228.89 Hz
+ax = -398.44 ay = -4.76 az = 1081.54 mg
+gx = 11.11 gy = -5.54 gz = 3.23 deg/s
+mx = -509 my = 242 mz = -169 mG
+q0 = 0.79 qx = -0.10 qy = 0.15 qz = 0.59
+Yaw, Pitch, Roll: 64.76, 20.44, 0.74
+rate = 230.17 Hz
+ax = -375.06 ay = 6.29 az = 1072.63 mg
+gx = 10.62 gy = -4.59 gz = 10.15 deg/s
+mx = -503 my = 250 mz = -178 mG
+q0 = 0.80 qx = -0.09 qy = 0.15 qz = 0.58
+Yaw, Pitch, Roll: 64.06, 20.21, 1.72
+rate = 229.07 Hz
+ax = -362.79 ay = -0.37 az = 1063.72 mg
+gx = 9.57 gy = -6.61 gz = 47.32 deg/s
+mx = -539 my = 276 mz = -178 mG
+q0 = 0.78 qx = -0.10 qy = 0.15 qz = 0.60
+Yaw, Pitch, Roll: 66.44, 20.97, 1.73
+rate = 228.12 Hz
+ax = -425.29 ay = -17.03 az = 1075.44 mg
+gx = 9.74 gy = -5.25 gz = 24.62 deg/s
+mx = -560 my = 297 mz = -192 mG
+q0 = 0.80 qx = -0.10 qy = 0.15 qz = 0.58
+Yaw, Pitch, Roll: 63.73, 21.06, 1.36
+rate = 227.79 Hz
+ax = -388.61 ay = -61.16 az = 1074.04 mg
+gx = 10.12 gy = -6.21 gz = 45.77 deg/s
+mx = -566 my = 313 mz = -190 mG
+q0 = 0.80 qx = -0.10 qy = 0.15 qz = 0.57
+Yaw, Pitch, Roll: 62.63, 20.65, 0.66
+rate = 228.26 Hz
+ax = -410.77 ay = 8.36 az = 1076.17 mg
+gx = 10.17 gy = -5.77 gz = 4.57 deg/s
+mx = -630 my = 328 mz = -190 mG
+q0 = 0.80 qx = -0.10 qy = 0.16 qz = 0.57
+Yaw, Pitch, Roll: 63.12, 21.61, 1.68
+rate = 229.23 Hz
+ax = -411.87 ay = 5.00 az = 1080.08 mg
+gx = 10.10 gy = -5.68 gz = 4.01 deg/s
+mx = -612 my = 324 mz = -190 mG
+q0 = 0.81 qx = -0.09 qy = 0.15 qz = 0.56
+Yaw, Pitch, Roll: 60.34, 20.04, 1.23
+rate = 227.95 Hz
+ax = -418.76 ay = 27.22 az = 1090.58 mg
+gx = 14.45 gy = -5.17 gz = 34.88 deg/s
+mx = -623 my = 324 mz = -190 mG
+q0 = 0.81 qx = -0.08 qy = 0.16 qz = 0.56
+Yaw, Pitch, Roll: 61.16, 20.11, 2.44
+rate = 227.45 Hz
+ax = -419.43 ay = 75.07 az = 1098.57 mg
+gx = 13.71 gy = -4.87 gz = 30.69 deg/s
+mx = -640 my = 317 mz = -197 mG
+q0 = 0.80 qx = -0.08 qy = 0.16 qz = 0.57
+Yaw, Pitch, Roll: 63.16, 20.47, 3.42
+rate = 227.87 Hz
+ax = -413.21 ay = 23.38 az = 1071.11 mg
+gx = 10.51 gy = -5.74 gz = 3.34 deg/s
+mx = -635 my = 319 mz = -192 mG
+q0 = 0.81 qx = -0.08 qy = 0.16 qz = 0.56
+Yaw, Pitch, Roll: 61.76, 20.33, 2.45
+rate = 227.71 Hz
+ax = -416.69 ay = 6.65 az = 1057.86 mg
+gx = 9.53 gy = -5.74 gz = 3.52 deg/s
+mx = -639 my = 344 mz = -171 mG
+q0 = 0.81 qx = -0.08 qy = 0.16 qz = 0.55
+Yaw, Pitch, Roll: 60.07, 20.51, 2.28
+rate = 227.73 Hz
+ax = -406.25 ay = 6.41 az = 1100.95 mg
+gx = 0.62 gy = -7.70 gz = -19.13 deg/s
+mx = -653 my = 329 mz = -192 mG
+q0 = 0.82 qx = -0.09 qy = 0.14 qz = 0.54
+Yaw, Pitch, Roll: 58.76, 19.18, 0.93
+rate = 230.09 Hz
+ax = -204.71 ay = -543.40 az = 798.28 mg
+gx = -56.69 gy = -39.51 gz = -16.04 deg/s
+mx = -347 my = 240 mz = -285 mG
+q0 = 0.80 qx = -0.30 qy = -0.08 qz = 0.51
+Yaw, Pitch, Roll: 53.19, 10.57, -35.16
+rate = 227.64 Hz
+ax = -41.93 ay = -813.66 az = 318.30 mg
+gx = -14.98 gy = -25.18 gz = -4.69 deg/s
+mx = -211 my = 168 mz = -471 mG
+q0 = 0.67 qx = -0.45 qy = -0.32 qz = 0.49
+Yaw, Pitch, Roll: 63.91, 1.07, -67.68
+rate = 229.64 Hz
+ax = 250.37 ay = -807.37 az = 195.19 mg
+gx = 37.75 gy = -37.62 gz = -41.25 deg/s
+mx = -249 my = 62 mz = -507 mG
+q0 = 0.64 qx = -0.34 qy = -0.50 qz = 0.47
+Yaw, Pitch, Roll: 78.24, -17.98, -73.64
+rate = 231.50 Hz
+ax = 515.44 ay = -330.81 az = 235.17 mg
+gx = 57.14 gy = -27.61 gz = -37.73 deg/s
+mx = -368 my = -85 mz = -416 mG
+q0 = 0.67 qx = 0.04 qy = -0.55 qz = 0.50
+Yaw, Pitch, Roll: 91.30, -50.46, -51.62
+rate = 229.74 Hz
+ax = 605.77 ay = -172.97 az = 89.60 mg
+gx = -11.61 gy = -33.19 gz = 11.63 deg/s
+mx = -468 my = -175 mz = -495 mG
+q0 = 0.62 qx = 0.17 qy = -0.65 qz = 0.40
+Yaw, Pitch, Roll: 113.75, -70.97, -73.26
+rate = 228.38 Hz
+ax = 604.80 ay = -279.42 az = -7.45 mg
+gx = -10.58 gy = 22.09 gz = -0.40 deg/s
+mx = -432 my = -171 mz = -553 mG
+q0 = 0.57 qx = 0.13 qy = -0.74 qz = 0.33
+Yaw, Pitch, Roll: 142.05, -68.00, -111.34
+rate = 227.09 Hz
+ax = 546.75 ay = -214.90 az = 254.64 mg
+gx = 16.82 gy = 40.57 gz = 2.31 deg/s
+mx = -436 my = -150 mz = -422 mG
+q0 = 0.71 qx = 0.13 qy = -0.51 qz = 0.47
+Yaw, Pitch, Roll: 77.78, -58.08, -33.69
+rate = 228.40 Hz
+ax = 443.48 ay = -140.75 az = 499.82 mg
+gx = 17.55 gy = -10.68 gz = -26.00 deg/s
+mx = -446 my = -68 mz = -319 mG
+q0 = 0.73 qx = 0.12 qy = -0.30 qz = 0.60
+Yaw, Pitch, Roll: 74.28, -36.07, -13.38
+rate = 229.09 Hz
+ax = 114.99 ay = -124.21 az = 908.51 mg
+gx = 3.42 gy = 49.87 gz = 1.84 deg/s
+mx = -450 my = 28 mz = -230 mG
+q0 = 0.74 qx = -0.02 qy = -0.13 qz = 0.66
+Yaw, Pitch, Roll: 76.42, -9.14, -11.81
+rate = 227.87 Hz
+ax = -353.88 ay = -235.11 az = 1052.37 mg
+gx = -7.03 gy = 31.70 gz = 2.96 deg/s
+mx = -443 my = 240 mz = -226 mG
+q0 = 0.79 qx = -0.18 qy = 0.07 qz = 0.59
+Yaw, Pitch, Roll: 62.86, 19.04, -12.64
+rate = 227.82 Hz
+ax = -790.34 ay = -196.66 az = 1009.40 mg
+gx = 9.83 gy = 55.89 gz = -7.23 deg/s
+mx = -441 my = 371 mz = -286 mG
+q0 = 0.77 qx = -0.26 qy = 0.23 qz = 0.54
+Yaw, Pitch, Roll: 57.45, 39.12, -11.16
+rate = 229.00 Hz
+ax = -1170.41 ay = -231.93 az = 731.69 mg
+gx = 8.59 gy = 33.43 gz = 11.75 deg/s
+mx = -441 my = 471 mz = -376 mG
+q0 = 0.67 qx = -0.35 qy = 0.30 qz = 0.59
+Yaw, Pitch, Roll: 68.36, 53.68, -10.83
+rate = 230.19 Hz
+ax = -1311.10 ay = -142.09 az = 585.27 mg
+gx = 5.88 gy = 13.15 gz = 28.77 deg/s
+mx = -466 my = 561 mz = -496 mG
+q0 = 0.53 qx = -0.45 qy = 0.30 qz = 0.65
+Yaw, Pitch, Roll: 86.21, 64.91, -11.52
+rate = 227.55 Hz
+ax = -1395.32 ay = -139.71 az = 259.03 mg
+gx = -5.71 gy = 34.77 gz = -13.92 deg/s
+mx = -461 my = 573 mz = -574 mG
+q0 = 0.41 qx = -0.57 qy = 0.27 qz = 0.66
+Yaw, Pitch, Roll: 84.86, 75.72, -28.59
+rate = 227.72 Hz
+ax = -1411.62 ay = -85.63 az = 40.47 mg
+gx = 22.10 gy = 1.17 gz = 25.16 deg/s
+mx = -443 my = 573 mz = -639 mG
+q0 = 0.30 qx = -0.64 qy = 0.23 qz = 0.66
+Yaw, Pitch, Roll: 75.06, 83.88, -52.52
+rate = 227.39 Hz
+ax = -1464.78 ay = -41.20 az = 101.26 mg
+gx = 17.97 gy = -16.75 gz = 12.08 deg/s
+mx = -489 my = 584 mz = -646 mG
+q0 = 0.27 qx = -0.64 qy = 0.23 qz = 0.69
+Yaw, Pitch, Roll: 112.84, 84.76, -17.25
+rate = 228.40 Hz
+ax = -1375.67 ay = -36.07 az = 294.80 mg
+gx = 14.59 gy = -45.23 gz = 10.70 deg/s
+mx = -475 my = 580 mz = -567 mG
+q0 = 0.32 qx = -0.58 qy = 0.24 qz = 0.71
+Yaw, Pitch, Roll: 117.14, 77.71, -7.11
+rate = 225.81 Hz
+ax = -1227.29 ay = -162.11 az = 777.28 mg
+gx = 6.56 gy = -34.13 gz = -14.34 deg/s
+mx = -464 my = 509 mz = -398 mG
+q0 = 0.50 qx = -0.42 qy = 0.25 qz = 0.71
+Yaw, Pitch, Roll: 97.48, 58.39, -7.47
+rate = 227.74 Hz
+ax = -683.29 ay = -261.66 az = 956.42 mg
+gx = 1.35 gy = -58.37 gz = 7.23 deg/s
+mx = -404 my = 372 mz = -288 mG
+q0 = 0.74 qx = -0.27 qy = 0.16 qz = 0.59
+Yaw, Pitch, Roll: 64.03, 34.26, -14.72
+rate = 229.31 Hz
+ax = -294.86 ay = 45.65 az = 1036.01 mg
+gx = 157.05 gy = -69.91 gz = 36.42 deg/s
+mx = -466 my = 256 mz = -207 mG
+q0 = 0.81 qx = -0.04 qy = 0.14 qz = 0.57
+Yaw, Pitch, Roll: 63.31, 16.00, 5.49
+rate = 228.02 Hz
+ax = -266.54 ay = 564.58 az = 893.43 mg
+gx = 46.47 gy = -2.82 gz = 7.53 deg/s
+mx = -749 my = 222 mz = -164 mG
+q0 = 0.76 qx = 0.15 qy = 0.25 qz = 0.58
+Yaw, Pitch, Roll: 70.17, 12.33, 31.83
+rate = 227.41 Hz
+ax = -246.46 ay = 756.77 az = 708.44 mg
+gx = 30.94 gy = 8.75 gz = 2.52 deg/s
+mx = -872 my = 206 mz = -242 mG
+q0 = 0.72 qx = 0.27 qy = 0.34 qz = 0.54
+Yaw, Pitch, Roll: 70.80, 11.07, 50.21
+rate = 229.48 Hz
+ax = -272.64 ay = 915.71 az = 451.05 mg
+gx = 33.07 gy = -18.73 gz = 7.84 deg/s
+mx = -931 my = 222 mz = -285 mG
+q0 = 0.70 qx = 0.34 qy = 0.39 qz = 0.50
+Yaw, Pitch, Roll: 69.75, 12.13, 61.57
+rate = 229.65 Hz
+ax = -249.51 ay = 902.04 az = 489.75 mg
+gx = 3.78 gy = -12.76 gz = 2.74 deg/s
+mx = -950 my = 206 mz = -321 mG
+q0 = 0.70 qx = 0.36 qy = 0.39 qz = 0.47
+Yaw, Pitch, Roll: 66.84, 11.69, 63.79
+rate = 231.37 Hz
+ax = -224.61 ay = 872.38 az = 561.71 mg
+gx = 19.77 gy = 7.63 gz = 2.14 deg/s
+mx = -929 my = 188 mz = -276 mG
+q0 = 0.72 qx = 0.35 qy = 0.35 qz = 0.48
+Yaw, Pitch, Roll: 64.67, 9.73, 59.10
+rate = 232.08 Hz
+ax = -208.92 ay = 645.20 az = 873.54 mg
+gx = -48.53 gy = -7.23 gz = 10.48 deg/s
+mx = -802 my = 172 mz = -199 mG
+q0 = 0.76 qx = 0.20 qy = 0.22 qz = 0.57
+Yaw, Pitch, Roll: 66.95, 6.64, 34.47
+rate = 231.07 Hz
+ax = -172.30 ay = 213.26 az = 1019.90 mg
+gx = -39.60 gy = -20.34 gz = 6.27 deg/s
+mx = -648 my = 181 mz = -138 mG
+q0 = 0.77 qx = 0.05 qy = 0.15 qz = 0.62
+Yaw, Pitch, Roll: 70.08, 9.54, 15.62
+rate = 230.08 Hz
+ax = -166.87 ay = -280.27 az = 1103.82 mg
+gx = -40.65 gy = -1.86 gz = 14.11 deg/s
+mx = -457 my = 193 mz = -188 mG
+q0 = 0.79 qx = -0.15 qy = -0.01 qz = 0.59
+Yaw, Pitch, Roll: 63.53, 9.81, -14.92
+rate = 227.60 Hz
+ax = -209.05 ay = -695.98 az = 704.16 mg
+gx = -43.17 gy = -8.97 gz = 20.81 deg/s
+mx = -277 my = 227 mz = -352 mG
+q0 = 0.76 qx = -0.35 qy = -0.12 qz = 0.54
+Yaw, Pitch, Roll: 58.30, 11.73, -41.84
+rate = 229.69 Hz
+ax = -309.08 ay = -858.89 az = 223.51 mg
+gx = -70.60 gy = -31.99 gz = 7.77 deg/s
+mx = -204 my = 265 mz = -560 mG
+q0 = 0.61 qx = -0.56 qy = -0.24 qz = 0.51
+Yaw, Pitch, Roll: 58.84, 16.02, -74.53
+rate = 231.30 Hz
+ax = -284.55 ay = -967.96 az = -212.10 mg
+gx = -31.93 gy = -11.93 gz = 11.38 deg/s
+mx = -256 my = 249 mz = -772 mG
+q0 = 0.45 qx = -0.73 qy = -0.33 qz = 0.40
+Yaw, Pitch, Roll: 53.16, 17.10, -106.71
+rate = 230.05 Hz
+ax = -307.50 ay = -809.45 az = -442.87 mg
+gx = -16.22 gy = -8.01 gz = -8.22 deg/s
+mx = -290 my = 258 mz = -849 mG
+q0 = 0.38 qx = -0.79 qy = -0.32 qz = 0.34
+Yaw, Pitch, Roll: 46.18, 17.43, -119.53
+rate = 230.94 Hz
+ax = -216.37 ay = -848.75 az = -471.50 mg
+gx = 30.20 gy = -0.50 gz = -15.88 deg/s
+mx = -272 my = 240 mz = -846 mG
+q0 = 0.41 qx = -0.78 qy = -0.32 qz = 0.34
+Yaw, Pitch, Roll: 45.80, 15.18, -116.65
+rate = 229.27 Hz
+ax = -233.89 ay = -766.17 az = 18.25 mg
+gx = 109.05 gy = 42.66 gz = -12.04 deg/s
+mx = -195 my = 191 mz = -579 mG
+q0 = 0.63 qx = -0.52 qy = -0.31 qz = 0.48
+Yaw, Pitch, Roll: 61.14, 6.22, -74.72
+rate = 230.06 Hz
+ax = 88.56 ay = -497.56 az = 848.08 mg
+gx = 112.16 gy = -28.13 gz = -20.33 deg/s
+mx = -316 my = 112 mz = -286 mG
+q0 = 0.79 qx = -0.18 qy = -0.14 qz = 0.57
+Yaw, Pitch, Roll: 63.35, -0.95, -26.84
+rate = 227.99 Hz
+ax = 42.05 ay = 216.80 az = 962.83 mg
+gx = 81.96 gy = 0.31 gz = -19.92 deg/s
+mx = -598 my = 112 mz = -173 mG
+q0 = 0.78 qx = 0.14 qy = 0.09 qz = 0.60
+Yaw, Pitch, Roll: 66.03, -1.38, 18.97
+rate = 227.30 Hz
+ax = -210.51 ay = 823.30 az = 595.46 mg
+gx = 84.93 gy = -4.61 gz = -10.12 deg/s
+mx = -908 my = 163 mz = -283 mG
+q0 = 0.71 qx = 0.34 qy = 0.34 qz = 0.52
+Yaw, Pitch, Roll: 67.55, 7.37, 56.39
+rate = 228.05 Hz
+ax = -151.37 ay = 935.73 az = 321.29 mg
+gx = 19.68 gy = -11.10 gz = 12.47 deg/s
+mx = -966 my = 161 mz = -364 mG
+q0 = 0.69 qx = 0.44 qy = 0.37 qz = 0.43
+Yaw, Pitch, Roll: 60.66, 7.67, 70.08
+rate = 229.71 Hz
+ax = -70.74 ay = 946.78 az = 322.75 mg
+gx = 19.29 gy = 0.08 gz = 2.49 deg/s
+mx = -972 my = 127 mz = -362 mG
+q0 = 0.69 qx = 0.45 qy = 0.35 qz = 0.44
+Yaw, Pitch, Roll: 60.15, 4.89, 70.06
+rate = 229.55 Hz
+ax = -134.64 ay = 942.38 az = 201.60 mg
+gx = 16.70 gy = -6.40 gz = -6.85 deg/s
+mx = -973 my = 154 mz = -367 mG
+q0 = 0.70 qx = 0.46 qy = 0.36 qz = 0.41
+Yaw, Pitch, Roll: 57.11, 7.22, 71.64
+rate = 230.11 Hz
+ax = -235.23 ay = 986.69 az = 0.00 mg
+gx = 54.73 gy = -25.97 gz = -14.60 deg/s
+mx = -993 my = 173 mz = -445 mG
+q0 = 0.73 qx = 0.53 qy = 0.33 qz = 0.30
+Yaw, Pitch, Roll: 43.50, 9.55, 76.40
+rate = 230.96 Hz
+ax = -299.38 ay = 961.91 az = -322.81 mg
+gx = 31.59 gy = -1.18 gz = -3.70 deg/s
+mx = -1004 my = 206 mz = -589 mG
+q0 = 0.75 qx = 0.62 qy = 0.17 qz = 0.13
+Yaw, Pitch, Roll: 16.10, 5.17, 80.31
+rate = 229.41 Hz
+ax = -314.70 ay = 659.79 az = -638.31 mg
+gx = 49.47 gy = 10.59 gz = 8.93 deg/s
+mx = -981 my = 222 mz = -708 mG
+q0 = 0.41 qx = 0.75 qy = -0.43 qz = -0.30
+Yaw, Pitch, Roll: -70.90, 5.40, 119.60
+rate = 229.68 Hz
+ax = -277.40 ay = 567.87 az = -741.15 mg
+gx = 22.54 gy = -12.86 gz = -0.92 deg/s
+mx = -932 my = 220 mz = -800 mG
+q0 = 0.17 qx = 0.74 qy = -0.57 qz = -0.32
+Yaw, Pitch, Roll: -89.70, 16.55, 140.57
+rate = 229.83 Hz
+ax = -282.41 ay = 443.85 az = -719.73 mg
+gx = -103.87 gy = 19.35 gz = -32.12 deg/s
+mx = -890 my = 202 mz = -858 mG
+q0 = 0.20 qx = 0.76 qy = -0.54 qz = -0.31
+Yaw, Pitch, Roll: -84.74, 14.09, 138.98
+rate = 229.65 Hz
+ax = -16.78 ay = 803.96 az = 449.28 mg
+gx = -60.71 gy = 22.30 gz = 12.78 deg/s
+mx = -940 my = 127 mz = -328 mG
+q0 = 0.62 qx = 0.46 qy = -0.33 qz = -0.54
+Yaw, Pitch, Roll: -87.42, 4.87, 68.30
+rate = 228.04 Hz
+ax = -120.24 ay = 307.86 az = 1136.35 mg
+gx = -43.44 gy = 41.08 gz = -12.08 deg/s
+mx = -712 my = 206 mz = -162 mG
+q0 = 0.89 qx = 0.39 qy = -0.09 qz = -0.21
+Yaw, Pitch, Roll: -34.94, 0.20, 47.82
+rate = 229.77 Hz
+ax = -385.86 ay = -767.09 az = 691.28 mg
+gx = -47.46 gy = 13.85 gz = -13.38 deg/s
+mx = -297 my = 283 mz = -340 mG
+q0 = 0.79 qx = -0.38 qy = -0.05 qz = 0.48
+Yaw, Pitch, Roll: 47.88, 16.82, -42.40
+rate = 227.79 Hz
+ax = -490.54 ay = -941.22 az = -14.40 mg
+gx = -100.20 gy = -5.10 gz = 34.36 deg/s
+mx = -220 my = 331 mz = -586 mG
+q0 = 0.53 qx = -0.67 qy = -0.21 qz = 0.48
+Yaw, Pitch, Roll: 51.25, 25.29, -89.21
+rate = 231.10 Hz
+ax = -490.42 ay = -760.62 az = -730.41 mg
+gx = -51.68 gy = 28.73 gz = -3.40 deg/s
+mx = -393 my = 319 mz = -877 mG
+q0 = 0.32 qx = -0.86 qy = -0.21 qz = 0.33
+Yaw, Pitch, Roll: 30.89, 25.50, -130.05
+rate = 229.95 Hz
+ax = -350.65 ay = -371.34 az = -810.67 mg
+gx = -38.13 gy = 2.76 gz = -20.70 deg/s
+mx = -541 my = 252 mz = -975 mG
+q0 = 0.20 qx = -0.96 qy = -0.09 qz = 0.18
+Yaw, Pitch, Roll: 5.88, 17.58, -154.62
+rate = 228.86 Hz
+ax = -165.10 ay = 51.27 az = -978.27 mg
+gx = 9.49 gy = 0.34 gz = 8.58 deg/s
+mx = -669 my = 213 mz = -972 mG
+q0 = 0.10 qx = -0.95 qy = 0.25 qz = 0.13
+Yaw, Pitch, Roll: -36.96, 16.89, -172.28
+rate = 228.26 Hz
+ax = -187.56 ay = -627.87 az = -838.26 mg
+gx = 228.10 gy = -7.72 gz = 19.18 deg/s
+mx = -521 my = 243 mz = -956 mG
+q0 = 0.29 qx = -0.90 qy = 0.31 qz = 0.06
+Yaw, Pitch, Roll: -41.63, 16.61, -149.31
+rate = 227.68 Hz
+ax = -231.75 ay = -854.43 az = 329.71 mg
+gx = 170.72 gy = -28.65 gz = -6.25 deg/s
+mx = -186 my = 215 mz = -591 mG
+q0 = 0.62 qx = -0.57 qy = -0.24 qz = 0.48
+Yaw, Pitch, Roll: 55.40, 14.33, -75.88
+rate = 229.22 Hz
+ax = 339.60 ay = -131.04 az = 650.82 mg
+gx = 80.44 gy = -112.71 gz = -10.61 deg/s
+mx = -409 my = 5 mz = -269 mG
+q0 = 0.76 qx = 0.07 qy = -0.24 qz = 0.60
+Yaw, Pitch, Roll: 70.95, -26.71, -12.51
+rate = 229.82 Hz
+ax = 544.49 ay = 76.23 az = 239.81 mg
+gx = 26.70 gy = -36.25 gz = 0.66 deg/s
+mx = -512 my = -180 mz = -428 mG
+q0 = 0.69 qx = 0.32 qy = -0.50 qz = 0.42
+Yaw, Pitch, Roll: 52.59, -72.53, 2.71
+rate = 229.90 Hz
+ax = 510.50 ay = 59.51 az = -315.67 mg
+gx = -4.68 gy = -75.71 gz = 15.61 deg/s
+mx = -507 my = -207 mz = -608 mG
+q0 = 0.47 qx = 0.31 qy = -0.81 qz = 0.15
+Yaw, Pitch, Roll: -144.07, -59.25, 175.29
+rate = 227.81 Hz
+ax = 177.25 ay = 110.60 az = -949.04 mg
+gx = 2.09 gy = -41.47 gz = 4.07 deg/s
+mx = -505 my = -98 mz = -827 mG
+q0 = 0.20 qx = 0.40 qy = -0.90 qz = 0.03
+Yaw, Pitch, Roll: -139.50, -22.79, 173.62
+rate = 227.69 Hz
+ax = -150.51 ay = 131.35 az = -884.52 mg
+gx = -21.16 gy = -79.76 gz = 39.33 deg/s
+mx = -484 my = 30 mz = -920 mG
+q0 = 0.00 qx = 0.52 qy = -0.85 qz = 0.01
+Yaw, Pitch, Roll: -125.47, -0.65, -179.16
+rate = 227.24 Hz
+ax = -70.01 ay = 87.04 az = -905.09 mg
+gx = 19.97 gy = 50.70 gz = -7.74 deg/s
+mx = -480 my = 55 mz = -920 mG
+q0 = 0.02 qx = 0.71 qy = -0.70 qz = -0.02
+Yaw, Pitch, Roll: -97.20, 0.50, 176.63
+rate = 227.78 Hz
+ax = 393.49 ay = 172.73 az = -370.61 mg
+gx = 12.67 gy = 40.22 gz = -19.74 deg/s
+mx = -473 my = -109 mz = -782 mG
+q0 = 0.20 qx = 0.59 qy = -0.78 qz = 0.07
+Yaw, Pitch, Roll: -112.36, -22.94, 172.00
+rate = 227.99 Hz
+ax = 627.44 ay = 152.34 az = -93.87 mg
+gx = 7.32 gy = 52.82 gz = -5.10 deg/s
+mx = -560 my = -218 mz = -519 mG
+q0 = 0.65 qx = 0.33 qy = -0.67 qz = 0.14
+Yaw, Pitch, Roll: -86.10, -74.53, 117.08
+rate = 227.69 Hz
+ax = 535.40 ay = 66.96 az = 421.02 mg
+gx = -2.53 gy = 62.10 gz = -2.18 deg/s
+mx = -539 my = -164 mz = -360 mG
+q0 = 0.81 qx = 0.31 qy = -0.35 qz = 0.36
+Yaw, Pitch, Roll: 27.62, -52.18, 23.23
+rate = 229.94 Hz
+ax = 98.27 ay = 161.99 az = 995.54 mg
+gx = 18.14 gy = 53.54 gz = 13.31 deg/s
+mx = -537 my = 19 mz = -200 mG
+q0 = 0.74 qx = 0.10 qy = -0.03 qz = 0.66
+Yaw, Pitch, Roll: 74.20, -9.68, 6.25
+rate = 228.13 Hz
+ax = -187.87 ay = -31.56 az = 1027.71 mg
+gx = 18.23 gy = 34.57 gz = 2.33 deg/s
+mx = -502 my = 141 mz = -183 mG
+q0 = 0.76 qx = -0.06 qy = 0.09 qz = 0.64
+Yaw, Pitch, Roll: 71.00, 12.31, 0.81
+rate = 229.04 Hz
+ax = -196.04 ay = -98.51 az = 1135.38 mg
+gx = -0.65 gy = -65.40 gz = 7.93 deg/s
+mx = -486 my = 164 mz = -181 mG
+q0 = 0.79 qx = -0.05 qy = 0.05 qz = 0.60
+Yaw, Pitch, Roll: 65.98, 8.34, -1.22
+rate = 228.29 Hz
+ax = -335.82 ay = 39.86 az = 1117.92 mg
+gx = 9.03 gy = -11.18 gz = -19.84 deg/s
+mx = -468 my = 197 mz = -174 mG
+q0 = 0.81 qx = -0.08 qy = 0.06 qz = 0.58
+Yaw, Pitch, Roll: 62.73, 11.37, -3.36
+rate = 226.18 Hz
+ax = -396.06 ay = -64.33 az = 1073.18 mg
+gx = 12.77 gy = -5.48 gz = 3.33 deg/s
+mx = -486 my = 250 mz = -185 mG
+q0 = 0.80 qx = -0.11 qy = 0.13 qz = 0.57
+Yaw, Pitch, Roll: 61.74, 19.83, -2.11
+rate = 227.52 Hz
+ax = -434.33 ay = -48.16 az = 1079.10 mg
+gx = 10.59 gy = -6.71 gz = 26.01 deg/s
+mx = -482 my = 258 mz = -199 mG
+q0 = 0.80 qx = -0.11 qy = 0.13 qz = 0.58
+Yaw, Pitch, Roll: 63.16, 20.07, -1.61
+rate = 227.60 Hz
+ax = -397.89 ay = -46.26 az = 1066.71 mg
+gx = 12.09 gy = -6.61 gz = 31.59 deg/s
+mx = -503 my = 290 mz = -178 mG
+q0 = 0.80 qx = -0.11 qy = 0.14 qz = 0.58
+Yaw, Pitch, Roll: 62.99, 20.65, -1.01
+rate = 229.38 Hz
+ax = -413.76 ay = -62.81 az = 1067.93 mg
+gx = 12.66 gy = -10.48 gz = 50.19 deg/s
+mx = -534 my = 299 mz = -197 mG
+q0 = 0.79 qx = -0.12 qy = 0.14 qz = 0.59
+Yaw, Pitch, Roll: 64.50, 20.48, -1.40
+rate = 229.82 Hz
+ax = -408.33 ay = -49.74 az = 1070.86 mg
+gx = 11.34 gy = -5.13 gz = 10.86 deg/s
+mx = -578 my = 340 mz = -188 mG
+q0 = 0.81 qx = -0.11 qy = 0.15 qz = 0.56
+Yaw, Pitch, Roll: 60.39, 20.87, -0.72
+rate = 229.70 Hz
+ax = -401.61 ay = -26.55 az = 1080.87 mg
+gx = 10.96 gy = -5.95 gz = 11.79 deg/s
+mx = -599 my = 329 mz = -178 mG
+q0 = 0.81 qx = -0.10 qy = 0.15 qz = 0.56
+Yaw, Pitch, Roll: 61.20, 20.73, -0.20
+rate = 229.68 Hz
+ax = -405.27 ay = 7.20 az = 1080.63 mg
+gx = 20.52 gy = -5.89 gz = 31.49 deg/s
+mx = -632 my = 326 mz = -181 mG
+q0 = 0.80 qx = -0.09 qy = 0.16 qz = 0.58
+Yaw, Pitch, Roll: 63.58, 20.77, 2.21
+rate = 229.89 Hz
+ax = -409.42 ay = 73.06 az = 1086.12 mg
+gx = 11.87 gy = -4.49 gz = 32.14 deg/s
+mx = -690 my = 324 mz = -186 mG
+q0 = 0.78 qx = -0.08 qy = 0.17 qz = 0.59
+Yaw, Pitch, Roll: 66.56, 20.75, 4.70
+rate = 227.73 Hz
+ax = -401.55 ay = 43.95 az = 1074.65 mg
+gx = 10.71 gy = -5.71 gz = 11.87 deg/s
+mx = -699 my = 319 mz = -192 mG
+q0 = 0.79 qx = -0.08 qy = 0.16 qz = 0.58
+Yaw, Pitch, Roll: 64.82, 20.10, 4.19
+rate = 227.76 Hz
+ax = -394.71 ay = 68.79 az = 1078.31 mg
+gx = 12.89 gy = -3.89 gz = 35.22 deg/s
+mx = -737 my = 313 mz = -197 mG
+q0 = 0.78 qx = -0.08 qy = 0.17 qz = 0.60
+Yaw, Pitch, Roll: 68.15, 20.48, 4.93
+rate = 227.84 Hz
+ax = -412.60 ay = 60.49 az = 1075.99 mg
+gx = 14.43 gy = -5.68 gz = 28.22 deg/s
+mx = -760 my = 297 mz = -195 mG
+q0 = 0.77 qx = -0.08 qy = 0.16 qz = 0.61
+Yaw, Pitch, Roll: 69.49, 20.50, 4.90
+rate = 228.14 Hz
+ax = -399.35 ay = 60.18 az = 1078.67 mg
+gx = 10.72 gy = -5.89 gz = 3.04 deg/s
+mx = -776 my = 270 mz = -173 mG
+q0 = 0.77 qx = -0.08 qy = 0.16 qz = 0.61
+Yaw, Pitch, Roll: 68.44, 19.82, 4.26
+rate = 227.22 Hz
+ax = -398.07 ay = 56.52 az = 1070.98 mg
+gx = 8.47 gy = -6.64 gz = -28.57 deg/s
+mx = -756 my = 276 mz = -181 mG
+q0 = 0.79 qx = -0.08 qy = 0.15 qz = 0.59
+Yaw, Pitch, Roll: 65.22, 19.56, 3.25
+rate = 226.70 Hz
+ax = -398.13 ay = 47.36 az = 1062.87 mg
+gx = 9.70 gy = -6.63 gz = -34.14 deg/s
+mx = -703 my = 308 mz = -181 mG
+q0 = 0.81 qx = -0.08 qy = 0.15 qz = 0.56
+Yaw, Pitch, Roll: 61.23, 19.43, 2.33
+rate = 227.84 Hz
+ax = -406.13 ay = 55.48 az = 1074.46 mg
+gx = 4.87 gy = -5.94 gz = -26.29 deg/s
+mx = -696 my = 329 mz = -188 mG
+q0 = 0.81 qx = -0.08 qy = 0.15 qz = 0.56
+Yaw, Pitch, Roll: 61.07, 19.85, 2.25
+rate = 227.85 Hz
+ax = -373.66 ay = -15.38 az = 1086.98 mg
+gx = 9.27 gy = -5.39 gz = -53.38 deg/s
+mx = -656 my = 340 mz = -192 mG
+q0 = 0.83 qx = -0.09 qy = 0.15 qz = 0.54
+Yaw, Pitch, Roll: 57.56, 19.85, 0.89
+rate = 227.46 Hz
+ax = -397.03 ay = -48.10 az = 1065.49 mg
+gx = 13.09 gy = -6.01 gz = 1.82 deg/s
+mx = -626 my = 331 mz = -186 mG
+q0 = 0.82 qx = -0.10 qy = 0.14 qz = 0.55
+Yaw, Pitch, Roll: 59.59, 19.77, -0.26
+rate = 227.65 Hz
+ax = -370.18 ay = -37.66 az = 1065.73 mg
+gx = 8.02 gy = -3.96 gz = -44.15 deg/s
+mx = -603 my = 354 mz = -192 mG
+q0 = 0.84 qx = -0.10 qy = 0.13 qz = 0.51
+Yaw, Pitch, Roll: 53.71, 18.67, -2.40
+rate = 226.35 Hz
+ax = -449.34 ay = -33.20 az = 1083.13 mg
+gx = 10.57 gy = -5.37 gz = -17.69 deg/s
+mx = -560 my = 322 mz = -178 mG
+q0 = 0.84 qx = -0.09 qy = 0.14 qz = 0.51
+Yaw, Pitch, Roll: 54.21, 19.29, -1.01
+rate = 227.33 Hz
+ax = -395.32 ay = -33.20 az = 1075.87 mg
+gx = 14.28 gy = -4.71 gz = -16.39 deg/s
+mx = -534 my = 310 mz = -190 mG
+q0 = 0.84 qx = -0.10 qy = 0.13 qz = 0.52
+Yaw, Pitch, Roll: 54.61, 18.97, -1.37
+rate = 227.99 Hz
+ax = -389.95 ay = -33.63 az = 1076.35 mg
+gx = 8.11 gy = -4.90 gz = -23.10 deg/s
+mx = -491 my = 256 mz = -186 mG
+q0 = 0.84 qx = -0.09 qy = 0.13 qz = 0.52
+Yaw, Pitch, Roll: 54.48, 17.73, -1.14
+rate = 227.40 Hz
+ax = -393.13 ay = -45.29 az = 1073.61 mg
+gx = 10.58 gy = -5.73 gz = 3.40 deg/s
+mx = -484 my = 234 mz = -193 mG
+q0 = 0.80 qx = -0.10 qy = 0.13 qz = 0.57
+Yaw, Pitch, Roll: 62.46, 18.94, -1.24
+rate = 229.72 Hz
+ax = -393.80 ay = -47.30 az = 1071.47 mg
+gx = 10.89 gy = -5.07 gz = 3.25 deg/s
+mx = -471 my = 236 mz = -188 mG
+q0 = 0.80 qx = -0.11 qy = 0.13 qz = 0.57
+Yaw, Pitch, Roll: 62.26, 19.38, -1.10
+rate = 228.14 Hz
+ax = -384.16 ay = -40.77 az = 1077.76 mg
+gx = 7.79 gy = -6.09 gz = -16.60 deg/s
+mx = -471 my = 222 mz = -192 mG
+q0 = 0.81 qx = -0.11 qy = 0.13 qz = 0.56
+Yaw, Pitch, Roll: 60.16, 19.14, -1.60
+rate = 227.03 Hz
+ax = -402.04 ay = -27.95 az = 1091.25 mg
+gx = 8.24 gy = -6.75 gz = -47.43 deg/s
+mx = -468 my = 200 mz = -185 mG
+q0 = 0.82 qx = -0.10 qy = 0.11 qz = 0.55
+Yaw, Pitch, Roll: 58.89, 17.39, -2.74
+rate = 229.89 Hz
+ax = -355.71 ay = -39.06 az = 1076.78 mg
+gx = 7.94 gy = -3.78 gz = -37.02 deg/s
+mx = -478 my = 147 mz = -181 mG
+q0 = 0.78 qx = -0.10 qy = 0.10 qz = 0.60
+Yaw, Pitch, Roll: 66.32, 16.34, -1.92
+rate = 229.57 Hz
+ax = -350.34 ay = -51.76 az = 1077.94 mg
+gx = 9.19 gy = -5.40 gz = -22.87 deg/s
+mx = -484 my = 102 mz = -197 mG
+q0 = 0.76 qx = -0.10 qy = 0.09 qz = 0.64
+Yaw, Pitch, Roll: 71.80, 15.85, -2.15
+rate = 229.54 Hz
+ax = -370.30 ay = -34.06 az = 1068.24 mg
+gx = 10.61 gy = -3.98 gz = -19.10 deg/s
+mx = -510 my = 78 mz = -192 mG
+q0 = 0.74 qx = -0.11 qy = 0.10 qz = 0.66
+Yaw, Pitch, Roll: 74.41, 17.15, -1.53
+rate = 228.06 Hz
+ax = -361.69 ay = -34.97 az = 1079.28 mg
+gx = 11.62 gy = -5.44 gz = -18.14 deg/s
+mx = -546 my = 50 mz = -192 mG
+q0 = 0.73 qx = -0.10 qy = 0.10 qz = 0.67
+Yaw, Pitch, Roll: 77.11, 16.50, -1.08
+rate = 226.21 Hz
+ax = -325.50 ay = -48.34 az = 1069.15 mg
+gx = 6.90 gy = -4.76 gz = -35.77 deg/s
+mx = -589 my = 64 mz = -192 mG
+q0 = 0.71 qx = -0.12 qy = 0.11 qz = 0.69
+Yaw, Pitch, Roll: 80.12, 18.51, -0.73
+rate = 227.32 Hz
+ax = -383.67 ay = -10.38 az = 1079.41 mg
+gx = 11.11 gy = -4.81 gz = -44.04 deg/s
+mx = -637 my = 19 mz = -186 mG
+q0 = 0.72 qx = -0.11 qy = 0.10 qz = 0.68
+Yaw, Pitch, Roll: 78.52, 17.04, -0.59
+rate = 227.58 Hz
+ax = -370.48 ay = -4.58 az = 1081.73 mg
+gx = 9.07 gy = -3.86 gz = -31.81 deg/s
+mx = -694 my = 59 mz = -193 mG
+q0 = 0.71 qx = -0.11 qy = 0.11 qz = 0.69
+Yaw, Pitch, Roll: 79.30, 17.90, -0.59
+rate = 228.04 Hz
+ax = -382.75 ay = -14.71 az = 1084.72 mg
+gx = 11.33 gy = -5.69 gz = 2.30 deg/s
+mx = -726 my = 73 mz = -190 mG
+q0 = 0.71 qx = -0.11 qy = 0.11 qz = 0.69
+Yaw, Pitch, Roll: 79.90, 17.92, -0.19
+rate = 226.51 Hz
+ax = -384.09 ay = -10.86 az = 1078.43 mg
+gx = 11.67 gy = -8.12 gz = 74.85 deg/s
+mx = -680 my = 44 mz = -190 mG
+q0 = 0.64 qx = -0.12 qy = 0.13 qz = 0.75
+Yaw, Pitch, Roll: 91.11, 20.02, 3.03
+rate = 227.44 Hz
+ax = -377.75 ay = -41.50 az = 1078.74 mg
+gx = 11.96 gy = -7.70 gz = 67.02 deg/s
+mx = -583 my = 52 mz = -176 mG
+q0 = 0.64 qx = -0.12 qy = 0.13 qz = 0.75
+Yaw, Pitch, Roll: 91.46, 20.71, 2.49
+rate = 227.91 Hz
+ax = -396.30 ay = -22.77 az = 1076.97 mg
+gx = 9.85 gy = -6.45 gz = 7.67 deg/s
+mx = -507 my = 111 mz = -181 mG
+q0 = 0.67 qx = -0.13 qy = 0.14 qz = 0.72
+Yaw, Pitch, Roll: 85.65, 22.39, 2.01
+rate = 227.55 Hz
+ax = -398.80 ay = -38.82 az = 1080.81 mg
+gx = 10.89 gy = -4.81 gz = 4.52 deg/s
+mx = -502 my = 127 mz = -190 mG
+q0 = 0.73 qx = -0.12 qy = 0.12 qz = 0.66
+Yaw, Pitch, Roll: 76.01, 19.46, -0.44
+rate = 228.28 Hz
+ax = -338.38 ay = -52.43 az = 1081.36 mg
+gx = 10.35 gy = -8.29 gz = 81.79 deg/s
+mx = -503 my = 143 mz = -185 mG
+q0 = 0.73 qx = -0.11 qy = 0.11 qz = 0.67
+Yaw, Pitch, Roll: 76.59, 18.17, -1.25
+rate = 227.61 Hz
+ax = -383.85 ay = -110.53 az = 1100.71 mg
+gx = -6.10 gy = -13.24 gz = 50.91 deg/s
+mx = -494 my = 234 mz = -193 mG
+q0 = 0.72 qx = -0.13 qy = 0.15 qz = 0.67
+Yaw, Pitch, Roll: 77.92, 22.74, 0.77
+rate = 227.58 Hz
+ax = -192.14 ay = -681.27 az = 720.15 mg
+gx = -53.20 gy = -14.37 gz = 22.42 deg/s
+mx = -322 my = 211 mz = -302 mG
+q0 = 0.75 qx = -0.34 qy = -0.12 qz = 0.55
+Yaw, Pitch, Roll: 59.47, 11.09, -40.85
+rate = 231.20 Hz
+ax = -274.72 ay = -949.58 az = 297.85 mg
+gx = -55.79 gy = -18.90 gz = -3.78 deg/s
+mx = -201 my = 261 mz = -533 mG
+q0 = 0.63 qx = -0.54 qy = -0.22 qz = 0.51
+Yaw, Pitch, Roll: 57.70, 15.77, -70.95
+rate = 229.76 Hz
+ax = -259.95 ay = -975.40 az = -200.32 mg
+gx = -43.56 gy = -20.61 gz = -6.36 deg/s
+mx = -224 my = 267 mz = -717 mG
+q0 = 0.49 qx = -0.68 qy = -0.34 qz = 0.43
+Yaw, Pitch, Roll: 57.54, 14.79, -98.54
+rate = 229.80 Hz
+ax = -212.22 ay = -791.44 az = -592.59 mg
+gx = -39.15 gy = -1.66 gz = 7.39 deg/s
+mx = -302 my = 249 mz = -855 mG
+q0 = 0.37 qx = -0.79 qy = -0.38 qz = 0.31
+Yaw, Pitch, Roll: 49.31, 12.04, -122.68
+rate = 231.43 Hz
+ax = -200.74 ay = -505.74 az = -895.51 mg
+gx = -12.76 gy = 27.40 gz = 7.88 deg/s
+mx = -450 my = 250 mz = -929 mG
+q0 = 0.27 qx = -0.90 qy = -0.29 qz = 0.18
+Yaw, Pitch, Roll: 31.11, 9.88, -142.70
+rate = 231.32 Hz
+ax = -190.92 ay = -555.11 az = -779.66 mg
+gx = 44.07 gy = 8.08 gz = -2.33 deg/s
+mx = -425 my = 215 mz = -936 mG
+q0 = 0.30 qx = -0.92 qy = -0.19 qz = 0.17
+Yaw, Pitch, Roll: 19.18, 10.84, -140.97
+rate = 229.41 Hz
+ax = -40.28 ay = -905.52 az = -372.44 mg
+gx = 61.61 gy = 2.47 gz = -18.53 deg/s
+mx = -288 my = 173 mz = -848 mG
+q0 = 0.43 qx = -0.79 qy = -0.34 qz = 0.29
+Yaw, Pitch, Roll: 43.77, 9.39, -118.47
+rate = 231.38 Hz
+ax = -31.37 ay = -885.25 az = 111.45 mg
+gx = 88.49 gy = 21.80 gz = 5.84 deg/s
+mx = -201 my = 118 mz = -636 mG
+q0 = 0.61 qx = -0.48 qy = -0.38 qz = 0.50
+Yaw, Pitch, Roll: 70.00, 0.84, -75.51
+rate = 231.41 Hz
+ax = 122.19 ay = -390.14 az = 956.30 mg
+gx = 74.71 gy = -22.31 gz = -4.83 deg/s
+mx = -295 my = 91 mz = -331 mG
+q0 = 0.78 qx = -0.15 qy = -0.17 qz = 0.59
+Yaw, Pitch, Roll: 66.49, -4.78, -26.06
+rate = 231.45 Hz
+ax = 262.08 ay = 340.82 az = 746.64 mg
+gx = 92.89 gy = -36.43 gz = -7.34 deg/s
+mx = -582 my = -10 mz = -202 mG
+q0 = 0.75 qx = 0.20 qy = -0.05 qz = 0.63
+Yaw, Pitch, Roll: 69.08, -19.14, 14.23
+rate = 228.05 Hz
+ax = 246.70 ay = 716.98 az = 96.56 mg
+gx = 40.34 gy = -7.98 gz = -12.55 deg/s
+mx = -856 my = -57 mz = -367 mG
+q0 = 0.75 qx = 0.54 qy = 0.08 qz = 0.38
+Yaw, Pitch, Roll: 35.20, -16.79, 64.92
+rate = 230.12 Hz
+ax = -99.06 ay = 718.44 az = -214.23 mg
+gx = 84.14 gy = -32.91 gz = -40.01 deg/s
+mx = -972 my = 16 mz = -579 mG
+q0 = 0.69 qx = 0.71 qy = -0.12 qz = -0.01
+Yaw, Pitch, Roll: -19.51, -8.75, 92.01
+rate = 228.96 Hz
+ax = -320.74 ay = 235.60 az = -1015.99 mg
+gx = 108.57 gy = -20.67 gz = 15.98 deg/s
+mx = -874 my = 129 mz = -829 mG
+q0 = 0.02 qx = 0.76 qy = -0.60 qz = -0.24
+Yaw, Pitch, Roll: -88.51, 19.80, 160.30
+rate = 229.87 Hz
+ax = -230.77 ay = 0.61 az = -838.99 mg
+gx = -20.07 gy = 42.92 gz = 43.27 deg/s
+mx = -715 my = 84 mz = -927 mG
+q0 = -0.04 qx = 0.82 qy = -0.56 qz = -0.11
+Yaw, Pitch, Roll: -77.45, 13.47, 176.56
+rate = 227.73 Hz
+ax = 302.67 ay = 529.60 az = -566.22 mg
+gx = -33.62 gy = 84.11 gz = 30.53 deg/s
+mx = -840 my = -116 mz = -662 mG
+q0 = 0.40 qx = 0.56 qy = -0.71 qz = -0.11
+Yaw, Pitch, Roll: -101.06, -26.64, 136.53
+rate = 229.69 Hz
+ax = 434.33 ay = 471.98 az = 471.07 mg
+gx = -50.74 gy = 69.08 gz = 17.94 deg/s
+mx = -790 my = -105 mz = -328 mG
+q0 = 0.84 qx = 0.43 qy = -0.34 qz = 0.03
+Yaw, Pitch, Roll: -26.25, -36.30, 59.94
+rate = 229.49 Hz
+ax = -36.38 ay = -1.89 az = 952.15 mg
+gx = -32.44 gy = 50.16 gz = 41.60 deg/s
+mx = -601 my = 80 mz = -173 mG
+q0 = 0.77 qx = 0.02 qy = -0.03 qz = 0.64
+Yaw, Pitch, Roll: 71.56, -4.11, -0.66
+rate = 230.90 Hz
+ax = -433.84 ay = -626.10 az = 720.58 mg
+gx = 4.34 gy = 100.12 gz = 33.51 deg/s
+mx = -377 my = 345 mz = -290 mG
+q0 = 0.77 qx = -0.34 qy = 0.03 qz = 0.54
+Yaw, Pitch, Roll: 55.02, 24.83, -32.66
+rate = 229.96 Hz
+ax = -342.96 ay = -507.45 az = 937.07 mg
+gx = 22.26 gy = -26.31 gz = -29.98 deg/s
+mx = -453 my = 294 mz = -216 mG
+q0 = 0.85 qx = -0.22 qy = 0.04 qz = 0.48
+Yaw, Pitch, Roll: 47.96, 15.72, -20.31
+rate = 231.37 Hz
+ax = -269.17 ay = -530.03 az = 901.73 mg
+gx = 16.05 gy = 66.13 gz = -34.81 deg/s
+mx = -350 my = 297 mz = -295 mG
+q0 = 0.81 qx = -0.30 qy = 0.02 qz = 0.50
+Yaw, Pitch, Roll: 49.18, 19.65, -29.74
+rate = 229.79 Hz
+ax = -827.03 ay = -400.76 az = 923.95 mg
+gx = 41.19 gy = 22.43 gz = 0.67 deg/s
+mx = -382 my = 383 mz = -326 mG
+q0 = 0.76 qx = -0.32 qy = 0.20 qz = 0.54
+Yaw, Pitch, Roll: 54.86, 39.88, -20.55
+rate = 231.18 Hz
+ax = -1313.17 ay = -257.02 az = 483.70 mg
+gx = 38.21 gy = 42.99 gz = 6.12 deg/s
+mx = -404 my = 526 mz = -484 mG
+q0 = 0.63 qx = -0.42 qy = 0.30 qz = 0.58
+Yaw, Pitch, Roll: 64.31, 60.39, -21.66
+rate = 230.06 Hz
+ax = -1315.19 ay = -231.45 az = 420.96 mg
+gx = 24.06 gy = 4.98 gz = -10.34 deg/s
+mx = -427 my = 535 mz = -521 mG
+q0 = 0.50 qx = -0.50 qy = 0.25 qz = 0.66
+Yaw, Pitch, Roll: 81.25, 66.00, -24.86
+rate = 228.16 Hz
+ax = -1344.73 ay = -218.08 az = 406.19 mg
+gx = -14.53 gy = -12.60 gz = -5.85 deg/s
+mx = -439 my = 566 mz = -595 mG
+q0 = 0.40 qx = -0.58 qy = 0.22 qz = 0.68
+Yaw, Pitch, Roll: 84.70, 73.39, -34.70
+rate = 229.13 Hz
+ax = -1219.18 ay = -2.32 az = -460.33 mg
+gx = 20.33 gy = 53.36 gz = 21.74 deg/s
+mx = -509 my = 543 mz = -793 mG
+q0 = 0.15 qx = -0.79 qy = 0.23 qz = 0.55
+Yaw, Pitch, Roll: -41.68, 69.00, 178.52
+rate = 229.43 Hz
+ax = -808.53 ay = 85.21 az = -881.29 mg
+gx = 6.20 gy = 51.54 gz = -1.94 deg/s
+mx = -537 my = 259 mz = -985 mG
+q0 = 0.07 qx = -0.89 qy = 0.28 qz = 0.36
+Yaw, Pitch, Roll: -45.81, 42.12, 173.89
+rate = 228.21 Hz
+ax = -480.53 ay = 139.28 az = -927.61 mg
+gx = 5.38 gy = 37.90 gz = -0.31 deg/s
+mx = -553 my = 139 mz = -960 mG
+q0 = 0.04 qx = -0.89 qy = 0.37 qz = 0.26
+Yaw, Pitch, Roll: -56.41, 29.46, 171.68
+rate = 229.39 Hz
+ax = -492.80 ay = 157.96 az = -1017.40 mg
+gx = 9.64 gy = -56.72 gz = -3.19 deg/s
+mx = -560 my = 111 mz = -967 mG
+q0 = 0.05 qx = -0.85 qy = 0.45 qz = 0.25
+Yaw, Pitch, Roll: -66.79, 27.62, 170.84
+rate = 229.37 Hz
+ax = -1122.62 ay = 111.88 az = -670.96 mg
+gx = 29.28 gy = -103.43 gz = 3.07 deg/s
+mx = -546 my = 326 mz = -942 mG
+q0 = 0.10 qx = -0.83 qy = 0.28 qz = 0.48
+Yaw, Pitch, Roll: -52.90, 57.68, 168.59
+rate = 229.98 Hz
+ax = -1353.21 ay = -34.42 az = 214.72 mg
+gx = 19.98 gy = -114.67 gz = -15.85 deg/s
+mx = -532 my = 605 mz = -650 mG
+q0 = 0.24 qx = -0.61 qy = 0.21 qz = 0.72
+Yaw, Pitch, Roll: 137.48, 80.66, 2.76
+rate = 227.80 Hz
+ax = -797.67 ay = -197.45 az = 947.51 mg
+gx = 6.74 gy = -94.68 gz = -40.12 deg/s
+mx = -505 my = 482 mz = -314 mG
+q0 = 0.54 qx = -0.35 qy = 0.25 qz = 0.72
+Yaw, Pitch, Roll: 97.85, 51.21, -0.94
+rate = 227.85 Hz
+ax = -421.39 ay = 93.38 az = 1176.45 mg
+gx = 39.07 gy = -45.38 gz = -18.06 deg/s
+mx = -576 my = 313 mz = -193 mG
+q0 = 0.83 qx = -0.04 qy = 0.14 qz = 0.55
+Yaw, Pitch, Roll: 58.98, 15.51, 4.88
+rate = 228.06 Hz
+ax = -295.35 ay = 219.60 az = 968.26 mg
+gx = 94.89 gy = 36.13 gz = -48.00 deg/s
+mx = -589 my = 215 mz = -154 mG
+q0 = 0.82 qx = 0.04 qy = 0.14 qz = 0.55
+Yaw, Pitch, Roll: 60.57, 10.45, 13.29
+rate = 227.58 Hz
+ax = -240.54 ay = 516.60 az = 974.37 mg
+gx = 65.30 gy = -25.06 gz = -26.53 deg/s
+mx = -733 my = 170 mz = -183 mG
+q0 = 0.79 qx = 0.18 qy = 0.21 qz = 0.54
+Yaw, Pitch, Roll: 62.39, 7.94, 31.89
+rate = 227.65 Hz
+ax = -333.25 ay = 776.18 az = 649.54 mg
+gx = 54.31 gy = -33.44 gz = -7.81 deg/s
+mx = -906 my = 225 mz = -274 mG
+q0 = 0.71 qx = 0.32 qy = 0.39 qz = 0.49
+Yaw, Pitch, Roll: 68.81, 14.30, 60.14
+rate = 229.58 Hz
+ax = -335.75 ay = 996.58 az = 108.83 mg
+gx = 63.79 gy = 1.04 gz = -3.49 deg/s
+mx = -986 my = 213 mz = -383 mG
+q0 = 0.68 qx = 0.43 qy = 0.44 qz = 0.40
+Yaw, Pitch, Roll: 63.19, 14.77, 75.16
+rate = 230.07 Hz
+ax = -341.43 ay = 975.95 az = -177.00 mg
+gx = 7.19 gy = -5.55 gz = 4.43 deg/s
+mx = -1014 my = 227 mz = -534 mG
+q0 = 0.71 qx = 0.48 qy = 0.38 qz = 0.34
+Yaw, Pitch, Roll: 52.45, 12.55, 75.38
+rate = 231.19 Hz
+ax = -193.97 ay = 893.13 az = 378.91 mg
+gx = -100.23 gy = 22.45 gz = 39.82 deg/s
+mx = -954 my = 181 mz = -314 mG
+q0 = 0.75 qx = 0.43 qy = 0.33 qz = 0.39
+Yaw, Pitch, Roll: 52.17, 9.69, 64.97
+rate = 230.67 Hz
+ax = -276.37 ay = 377.44 az = 1038.57 mg
+gx = -225.93 gy = 52.70 gz = -1.85 deg/s
+mx = -674 my = 215 mz = -157 mG
+q0 = 0.76 qx = 0.04 qy = 0.20 qz = 0.62
+Yaw, Pitch, Roll: 72.80, 14.41, 18.00
+rate = 230.67 Hz
+ax = -353.33 ay = -518.01 az = 1031.49 mg
+gx = -69.87 gy = -23.35 gz = 19.55 deg/s
+mx = -347 my = 279 mz = -278 mG
+q0 = 0.77 qx = -0.30 qy = -0.00 qz = 0.57
+Yaw, Pitch, Roll: 59.04, 19.26, -29.40
+rate = 228.74 Hz
+ax = -387.02 ay = -1043.46 az = 416.02 mg
+gx = -64.98 gy = -19.88 gz = 0.71 deg/s
+mx = -229 my = 308 mz = -491 mG
+q0 = 0.64 qx = -0.54 qy = -0.15 qz = 0.52
+Yaw, Pitch, Roll: 55.64, 21.65, -65.83
+rate = 229.85 Hz
+ax = -557.56 ay = -925.23 az = -267.76 mg
+gx = -55.82 gy = -14.85 gz = 6.33 deg/s
+mx = -281 my = 374 mz = -782 mG
+q0 = 0.42 qx = -0.77 qy = -0.21 qz = 0.44
+Yaw, Pitch, Roll: 43.78, 29.66, -107.42
+rate = 229.57 Hz
+ax = -644.65 ay = -389.71 az = -789.31 mg
+gx = -78.19 gy = 13.38 gz = 28.68 deg/s
+mx = -525 my = 380 mz = -908 mG
+q0 = 0.22 qx = -0.92 qy = -0.05 qz = 0.32
+Yaw, Pitch, Roll: 7.17, 34.52, -148.75
+rate = 231.02 Hz
